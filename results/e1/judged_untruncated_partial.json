@@ -1,0 +1,8308 @@
+{
+ "no_plan": {
+  "rank": [
+   1,
+   1,
+   2,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   2,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   2,
+   1,
+   2,
+   1,
+   1,
+   1,
+   1,
+   1,
+   2,
+   2,
+   4,
+   1,
+   1,
+   1,
+   2,
+   1,
+   2,
+   1,
+   2,
+   1,
+   1,
+   2,
+   14,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   2,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   2,
+   2,
+   2,
+   2,
+   1,
+   3,
+   2,
+   9,
+   1,
+   6,
+   5,
+   8,
+   12,
+   10,
+   11,
+   8,
+   4,
+   9,
+   7,
+   6,
+   8,
+   12,
+   12,
+   2,
+   1,
+   1,
+   1,
+   4,
+   4,
+   5,
+   3,
+   2,
+   1,
+   1,
+   2,
+   1,
+   1,
+   5,
+   3,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   8,
+   1
+  ],
+  "afc_pairs": [
+   [
+    92,
+    80
+   ],
+   [
+    88,
+    30
+   ],
+   [
+    94,
+    101
+   ],
+   [
+    91,
+    60
+   ],
+   [
+    92,
+    76
+   ],
+   [
+    89,
+    113
+   ],
+   [
+    92,
+    42
+   ],
+   [
+    92,
+    9
+   ],
+   [
+    95,
+    111
+   ],
+   [
+    91,
+    65
+   ],
+   [
+    90,
+    54
+   ],
+   [
+    92,
+    37
+   ],
+   [
+    88,
+    7
+   ],
+   [
+    95,
+    17
+   ],
+   [
+    82,
+    30
+   ],
+   [
+    80,
+    97
+   ],
+   [
+    87,
+    56
+   ],
+   [
+    85,
+    77
+   ],
+   [
+    81,
+    112
+   ],
+   [
+    85,
+    40
+   ],
+   [
+    81,
+    10
+   ],
+   [
+    81,
+    107
+   ],
+   [
+    85,
+    70
+   ],
+   [
+    82,
+    53
+   ],
+   [
+    81,
+    39
+   ],
+   [
+    85,
+    3
+   ],
+   [
+    85,
+    16
+   ],
+   [
+    24,
+    101
+   ],
+   [
+    24,
+    60
+   ],
+   [
+    31,
+    72
+   ],
+   [
+    24,
+    115
+   ],
+   [
+    28,
+    43
+   ],
+   [
+    29,
+    15
+   ],
+   [
+    29,
+    107
+   ],
+   [
+    29,
+    65
+   ],
+   [
+    27,
+    48
+   ],
+   [
+    25,
+    36
+   ],
+   [
+    28,
+    2
+   ],
+   [
+    26,
+    18
+   ],
+   [
+    101,
+    63
+   ],
+   [
+    102,
+    74
+   ],
+   [
+    103,
+    112
+   ],
+   [
+    99,
+    43
+   ],
+   [
+    96,
+    8
+   ],
+   [
+    102,
+    108
+   ],
+   [
+    99,
+    70
+   ],
+   [
+    102,
+    49
+   ],
+   [
+    103,
+    37
+   ],
+   [
+    97,
+    6
+   ],
+   [
+    102,
+    19
+   ],
+   [
+    56,
+    75
+   ],
+   [
+    56,
+    112
+   ],
+   [
+    58,
+    43
+   ],
+   [
+    60,
+    10
+   ],
+   [
+    62,
+    105
+   ],
+   [
+    62,
+    67
+   ],
+   [
+    57,
+    49
+   ],
+   [
+    59,
+    37
+   ],
+   [
+    59,
+    7
+   ],
+   [
+    60,
+    23
+   ],
+   [
+    72,
+    115
+   ],
+   [
+    74,
+    46
+   ],
+   [
+    78,
+    15
+   ],
+   [
+    77,
+    105
+   ],
+   [
+    76,
+    68
+   ],
+   [
+    76,
+    53
+   ],
+   [
+    79,
+    38
+   ],
+   [
+    75,
+    5
+   ],
+   [
+    74,
+    17
+   ],
+   [
+    119,
+    41
+   ],
+   [
+    114,
+    9
+   ],
+   [
+    116,
+    107
+   ],
+   [
+    117,
+    66
+   ],
+   [
+    117,
+    53
+   ],
+   [
+    117,
+    32
+   ],
+   [
+    116,
+    7
+   ],
+   [
+    116,
+    16
+   ],
+   [
+    44,
+    10
+   ],
+   [
+    44,
+    104
+   ],
+   [
+    45,
+    65
+   ],
+   [
+    44,
+    52
+   ],
+   [
+    42,
+    36
+   ],
+   [
+    44,
+    4
+   ],
+   [
+    41,
+    17
+   ],
+   [
+    14,
+    106
+   ],
+   [
+    15,
+    66
+   ],
+   [
+    15,
+    48
+   ],
+   [
+    13,
+    34
+   ],
+   [
+    14,
+    4
+   ],
+   [
+    10,
+    16
+   ],
+   [
+    111,
+    67
+   ],
+   [
+    109,
+    52
+   ],
+   [
+    108,
+    39
+   ],
+   [
+    105,
+    0
+   ],
+   [
+    110,
+    23
+   ],
+   [
+    69,
+    53
+   ],
+   [
+    66,
+    38
+   ],
+   [
+    70,
+    4
+   ],
+   [
+    66,
+    16
+   ],
+   [
+    54,
+    34
+   ],
+   [
+    50,
+    3
+   ],
+   [
+    52,
+    16
+   ],
+   [
+    36,
+    7
+   ],
+   [
+    34,
+    16
+   ],
+   [
+    7,
+    17
+   ]
+  ],
+  "afc": [
+   {
+    "i": 92,
+    "j": 80,
+    "target": 92,
+    "first": 92,
+    "answer": null,
+    "correct": null
+   },
+   {
+    "i": 92,
+    "j": 80,
+    "target": 92,
+    "first": 80,
+    "answer": null,
+    "correct": null
+   },
+   {
+    "i": 92,
+    "j": 80,
+    "target": 80,
+    "first": 92,
+    "answer": null,
+    "correct": null
+   },
+   {
+    "i": 92,
+    "j": 80,
+    "target": 80,
+    "first": 80,
+    "answer": null,
+    "correct": null
+   },
+   {
+    "i": 88,
+    "j": 30,
+    "target": 88,
+    "first": 88,
+    "answer": 2,
+    "correct": 0
+   },
+   {
+    "i": 88,
+    "j": 30,
+    "target": 88,
+    "first": 30,
+    "answer": 1,
+    "correct": 0
+   },
+   {
+    "i": 88,
+    "j": 30,
+    "target": 30,
+    "first": 88,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 88,
+    "j": 30,
+    "target": 30,
+    "first": 30,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 94,
+    "j": 101,
+    "target": 94,
+    "first": 94,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 94,
+    "j": 101,
+    "target": 94,
+    "first": 101,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 94,
+    "j": 101,
+    "target": 101,
+    "first": 94,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 94,
+    "j": 101,
+    "target": 101,
+    "first": 101,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 91,
+    "j": 60,
+    "target": 91,
+    "first": 91,
+    "answer": null,
+    "correct": null
+   },
+   {
+    "i": 91,
+    "j": 60,
+    "target": 91,
+    "first": 60,
+    "answer": null,
+    "correct": null
+   },
+   {
+    "i": 91,
+    "j": 60,
+    "target": 60,
+    "first": 91,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 91,
+    "j": 60,
+    "target": 60,
+    "first": 60,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 92,
+    "j": 76,
+    "target": 92,
+    "first": 92,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 92,
+    "j": 76,
+    "target": 92,
+    "first": 76,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 92,
+    "j": 76,
+    "target": 76,
+    "first": 92,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 92,
+    "j": 76,
+    "target": 76,
+    "first": 76,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 89,
+    "j": 113,
+    "target": 89,
+    "first": 89,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 89,
+    "j": 113,
+    "target": 89,
+    "first": 113,
+    "answer": 1,
+    "correct": 0
+   },
+   {
+    "i": 89,
+    "j": 113,
+    "target": 113,
+    "first": 89,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 89,
+    "j": 113,
+    "target": 113,
+    "first": 113,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 92,
+    "j": 42,
+    "target": 92,
+    "first": 92,
+    "answer": null,
+    "correct": null
+   },
+   {
+    "i": 92,
+    "j": 42,
+    "target": 92,
+    "first": 42,
+    "answer": null,
+    "correct": null
+   },
+   {
+    "i": 92,
+    "j": 42,
+    "target": 42,
+    "first": 92,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 92,
+    "j": 42,
+    "target": 42,
+    "first": 42,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 92,
+    "j": 9,
+    "target": 92,
+    "first": 92,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 92,
+    "j": 9,
+    "target": 92,
+    "first": 9,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 92,
+    "j": 9,
+    "target": 9,
+    "first": 92,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 92,
+    "j": 9,
+    "target": 9,
+    "first": 9,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 95,
+    "j": 111,
+    "target": 95,
+    "first": 95,
+    "answer": null,
+    "correct": null
+   },
+   {
+    "i": 95,
+    "j": 111,
+    "target": 95,
+    "first": 111,
+    "answer": null,
+    "correct": null
+   },
+   {
+    "i": 95,
+    "j": 111,
+    "target": 111,
+    "first": 95,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 95,
+    "j": 111,
+    "target": 111,
+    "first": 111,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 91,
+    "j": 65,
+    "target": 91,
+    "first": 91,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 91,
+    "j": 65,
+    "target": 91,
+    "first": 65,
+    "answer": null,
+    "correct": null
+   },
+   {
+    "i": 91,
+    "j": 65,
+    "target": 65,
+    "first": 91,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 91,
+    "j": 65,
+    "target": 65,
+    "first": 65,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 90,
+    "j": 54,
+    "target": 90,
+    "first": 90,
+    "answer": null,
+    "correct": null
+   },
+   {
+    "i": 90,
+    "j": 54,
+    "target": 90,
+    "first": 54,
+    "answer": null,
+    "correct": null
+   },
+   {
+    "i": 90,
+    "j": 54,
+    "target": 54,
+    "first": 90,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 90,
+    "j": 54,
+    "target": 54,
+    "first": 54,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 92,
+    "j": 37,
+    "target": 92,
+    "first": 92,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 92,
+    "j": 37,
+    "target": 92,
+    "first": 37,
+    "answer": 1,
+    "correct": 0
+   },
+   {
+    "i": 92,
+    "j": 37,
+    "target": 37,
+    "first": 92,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 92,
+    "j": 37,
+    "target": 37,
+    "first": 37,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 88,
+    "j": 7,
+    "target": 88,
+    "first": 88,
+    "answer": null,
+    "correct": null
+   },
+   {
+    "i": 88,
+    "j": 7,
+    "target": 88,
+    "first": 7,
+    "answer": null,
+    "correct": null
+   },
+   {
+    "i": 88,
+    "j": 7,
+    "target": 7,
+    "first": 88,
+    "answer": 1,
+    "correct": 0
+   },
+   {
+    "i": 88,
+    "j": 7,
+    "target": 7,
+    "first": 7,
+    "answer": 2,
+    "correct": 0
+   },
+   {
+    "i": 95,
+    "j": 17,
+    "target": 95,
+    "first": 95,
+    "answer": null,
+    "correct": null
+   },
+   {
+    "i": 95,
+    "j": 17,
+    "target": 95,
+    "first": 17,
+    "answer": 1,
+    "correct": 0
+   },
+   {
+    "i": 95,
+    "j": 17,
+    "target": 17,
+    "first": 95,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 95,
+    "j": 17,
+    "target": 17,
+    "first": 17,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 82,
+    "j": 30,
+    "target": 82,
+    "first": 82,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 82,
+    "j": 30,
+    "target": 82,
+    "first": 30,
+    "answer": 1,
+    "correct": 0
+   },
+   {
+    "i": 82,
+    "j": 30,
+    "target": 30,
+    "first": 82,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 82,
+    "j": 30,
+    "target": 30,
+    "first": 30,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 80,
+    "j": 97,
+    "target": 80,
+    "first": 80,
+    "answer": 2,
+    "correct": 0
+   },
+   {
+    "i": 80,
+    "j": 97,
+    "target": 80,
+    "first": 97,
+    "answer": null,
+    "correct": null
+   },
+   {
+    "i": 80,
+    "j": 97,
+    "target": 97,
+    "first": 80,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 80,
+    "j": 97,
+    "target": 97,
+    "first": 97,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 87,
+    "j": 56,
+    "target": 87,
+    "first": 87,
+    "answer": 2,
+    "correct": 0
+   },
+   {
+    "i": 87,
+    "j": 56,
+    "target": 87,
+    "first": 56,
+    "answer": 1,
+    "correct": 0
+   },
+   {
+    "i": 87,
+    "j": 56,
+    "target": 56,
+    "first": 87,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 87,
+    "j": 56,
+    "target": 56,
+    "first": 56,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 85,
+    "j": 77,
+    "target": 85,
+    "first": 85,
+    "answer": null,
+    "correct": null
+   },
+   {
+    "i": 85,
+    "j": 77,
+    "target": 85,
+    "first": 77,
+    "answer": null,
+    "correct": null
+   },
+   {
+    "i": 85,
+    "j": 77,
+    "target": 77,
+    "first": 85,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 85,
+    "j": 77,
+    "target": 77,
+    "first": 77,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 81,
+    "j": 112,
+    "target": 81,
+    "first": 81,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 81,
+    "j": 112,
+    "target": 81,
+    "first": 112,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 81,
+    "j": 112,
+    "target": 112,
+    "first": 81,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 81,
+    "j": 112,
+    "target": 112,
+    "first": 112,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 85,
+    "j": 40,
+    "target": 85,
+    "first": 85,
+    "answer": 2,
+    "correct": 0
+   },
+   {
+    "i": 85,
+    "j": 40,
+    "target": 85,
+    "first": 40,
+    "answer": null,
+    "correct": null
+   },
+   {
+    "i": 85,
+    "j": 40,
+    "target": 40,
+    "first": 85,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 85,
+    "j": 40,
+    "target": 40,
+    "first": 40,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 81,
+    "j": 10,
+    "target": 81,
+    "first": 81,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 81,
+    "j": 10,
+    "target": 81,
+    "first": 10,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 81,
+    "j": 10,
+    "target": 10,
+    "first": 81,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 81,
+    "j": 10,
+    "target": 10,
+    "first": 10,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 81,
+    "j": 107,
+    "target": 81,
+    "first": 81,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 81,
+    "j": 107,
+    "target": 81,
+    "first": 107,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 81,
+    "j": 107,
+    "target": 107,
+    "first": 81,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 81,
+    "j": 107,
+    "target": 107,
+    "first": 107,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 85,
+    "j": 70,
+    "target": 85,
+    "first": 85,
+    "answer": null,
+    "correct": null
+   },
+   {
+    "i": 85,
+    "j": 70,
+    "target": 85,
+    "first": 70,
+    "answer": null,
+    "correct": null
+   },
+   {
+    "i": 85,
+    "j": 70,
+    "target": 70,
+    "first": 85,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 85,
+    "j": 70,
+    "target": 70,
+    "first": 70,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 82,
+    "j": 53,
+    "target": 82,
+    "first": 82,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 82,
+    "j": 53,
+    "target": 82,
+    "first": 53,
+    "answer": 1,
+    "correct": 0
+   },
+   {
+    "i": 82,
+    "j": 53,
+    "target": 53,
+    "first": 82,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 82,
+    "j": 53,
+    "target": 53,
+    "first": 53,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 81,
+    "j": 39,
+    "target": 81,
+    "first": 81,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 81,
+    "j": 39,
+    "target": 81,
+    "first": 39,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 81,
+    "j": 39,
+    "target": 39,
+    "first": 81,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 81,
+    "j": 39,
+    "target": 39,
+    "first": 39,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 85,
+    "j": 3,
+    "target": 85,
+    "first": 85,
+    "answer": null,
+    "correct": null
+   },
+   {
+    "i": 85,
+    "j": 3,
+    "target": 85,
+    "first": 3,
+    "answer": 1,
+    "correct": 0
+   },
+   {
+    "i": 85,
+    "j": 3,
+    "target": 3,
+    "first": 85,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 85,
+    "j": 3,
+    "target": 3,
+    "first": 3,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 85,
+    "j": 16,
+    "target": 85,
+    "first": 85,
+    "answer": 2,
+    "correct": 0
+   },
+   {
+    "i": 85,
+    "j": 16,
+    "target": 85,
+    "first": 16,
+    "answer": null,
+    "correct": null
+   },
+   {
+    "i": 85,
+    "j": 16,
+    "target": 16,
+    "first": 85,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 85,
+    "j": 16,
+    "target": 16,
+    "first": 16,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 24,
+    "j": 101,
+    "target": 24,
+    "first": 24,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 24,
+    "j": 101,
+    "target": 24,
+    "first": 101,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 24,
+    "j": 101,
+    "target": 101,
+    "first": 24,
+    "answer": 1,
+    "correct": 0
+   },
+   {
+    "i": 24,
+    "j": 101,
+    "target": 101,
+    "first": 101,
+    "answer": 2,
+    "correct": 0
+   },
+   {
+    "i": 24,
+    "j": 60,
+    "target": 24,
+    "first": 24,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 24,
+    "j": 60,
+    "target": 24,
+    "first": 60,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 24,
+    "j": 60,
+    "target": 60,
+    "first": 24,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 24,
+    "j": 60,
+    "target": 60,
+    "first": 60,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 31,
+    "j": 72,
+    "target": 31,
+    "first": 31,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 31,
+    "j": 72,
+    "target": 31,
+    "first": 72,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 31,
+    "j": 72,
+    "target": 72,
+    "first": 31,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 31,
+    "j": 72,
+    "target": 72,
+    "first": 72,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 24,
+    "j": 115,
+    "target": 24,
+    "first": 24,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 24,
+    "j": 115,
+    "target": 24,
+    "first": 115,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 24,
+    "j": 115,
+    "target": 115,
+    "first": 24,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 24,
+    "j": 115,
+    "target": 115,
+    "first": 115,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 28,
+    "j": 43,
+    "target": 28,
+    "first": 28,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 28,
+    "j": 43,
+    "target": 28,
+    "first": 43,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 28,
+    "j": 43,
+    "target": 43,
+    "first": 28,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 28,
+    "j": 43,
+    "target": 43,
+    "first": 43,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 29,
+    "j": 15,
+    "target": 29,
+    "first": 29,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 29,
+    "j": 15,
+    "target": 29,
+    "first": 15,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 29,
+    "j": 15,
+    "target": 15,
+    "first": 29,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 29,
+    "j": 15,
+    "target": 15,
+    "first": 15,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 29,
+    "j": 107,
+    "target": 29,
+    "first": 29,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 29,
+    "j": 107,
+    "target": 29,
+    "first": 107,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 29,
+    "j": 107,
+    "target": 107,
+    "first": 29,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 29,
+    "j": 107,
+    "target": 107,
+    "first": 107,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 29,
+    "j": 65,
+    "target": 29,
+    "first": 29,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 29,
+    "j": 65,
+    "target": 29,
+    "first": 65,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 29,
+    "j": 65,
+    "target": 65,
+    "first": 29,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 29,
+    "j": 65,
+    "target": 65,
+    "first": 65,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 27,
+    "j": 48,
+    "target": 27,
+    "first": 27,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 27,
+    "j": 48,
+    "target": 27,
+    "first": 48,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 27,
+    "j": 48,
+    "target": 48,
+    "first": 27,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 27,
+    "j": 48,
+    "target": 48,
+    "first": 48,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 25,
+    "j": 36,
+    "target": 25,
+    "first": 25,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 25,
+    "j": 36,
+    "target": 25,
+    "first": 36,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 25,
+    "j": 36,
+    "target": 36,
+    "first": 25,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 25,
+    "j": 36,
+    "target": 36,
+    "first": 36,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 28,
+    "j": 2,
+    "target": 28,
+    "first": 28,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 28,
+    "j": 2,
+    "target": 28,
+    "first": 2,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 28,
+    "j": 2,
+    "target": 2,
+    "first": 28,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 28,
+    "j": 2,
+    "target": 2,
+    "first": 2,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 26,
+    "j": 18,
+    "target": 26,
+    "first": 26,
+    "answer": 2,
+    "correct": 0
+   },
+   {
+    "i": 26,
+    "j": 18,
+    "target": 26,
+    "first": 18,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 26,
+    "j": 18,
+    "target": 18,
+    "first": 26,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 26,
+    "j": 18,
+    "target": 18,
+    "first": 18,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 101,
+    "j": 63,
+    "target": 101,
+    "first": 101,
+    "answer": 2,
+    "correct": 0
+   },
+   {
+    "i": 101,
+    "j": 63,
+    "target": 101,
+    "first": 63,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 101,
+    "j": 63,
+    "target": 63,
+    "first": 101,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 101,
+    "j": 63,
+    "target": 63,
+    "first": 63,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 102,
+    "j": 74,
+    "target": 102,
+    "first": 102,
+    "answer": null,
+    "correct": null
+   },
+   {
+    "i": 102,
+    "j": 74,
+    "target": 102,
+    "first": 74,
+    "answer": null,
+    "correct": null
+   },
+   {
+    "i": 102,
+    "j": 74,
+    "target": 74,
+    "first": 102,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 102,
+    "j": 74,
+    "target": 74,
+    "first": 74,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 103,
+    "j": 112,
+    "target": 103,
+    "first": 103,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 103,
+    "j": 112,
+    "target": 103,
+    "first": 112,
+    "answer": 1,
+    "correct": 0
+   },
+   {
+    "i": 103,
+    "j": 112,
+    "target": 112,
+    "first": 103,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 103,
+    "j": 112,
+    "target": 112,
+    "first": 112,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 99,
+    "j": 43,
+    "target": 99,
+    "first": 99,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 99,
+    "j": 43,
+    "target": 99,
+    "first": 43,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 99,
+    "j": 43,
+    "target": 43,
+    "first": 99,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 99,
+    "j": 43,
+    "target": 43,
+    "first": 43,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 96,
+    "j": 8,
+    "target": 96,
+    "first": 96,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 96,
+    "j": 8,
+    "target": 96,
+    "first": 8,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 96,
+    "j": 8,
+    "target": 8,
+    "first": 96,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 96,
+    "j": 8,
+    "target": 8,
+    "first": 8,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 102,
+    "j": 108,
+    "target": 102,
+    "first": 102,
+    "answer": null,
+    "correct": null
+   },
+   {
+    "i": 102,
+    "j": 108,
+    "target": 102,
+    "first": 108,
+    "answer": 1,
+    "correct": 0
+   },
+   {
+    "i": 102,
+    "j": 108,
+    "target": 108,
+    "first": 102,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 102,
+    "j": 108,
+    "target": 108,
+    "first": 108,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 99,
+    "j": 70,
+    "target": 99,
+    "first": 99,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 99,
+    "j": 70,
+    "target": 99,
+    "first": 70,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 99,
+    "j": 70,
+    "target": 70,
+    "first": 99,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 99,
+    "j": 70,
+    "target": 70,
+    "first": 70,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 102,
+    "j": 49,
+    "target": 102,
+    "first": 102,
+    "answer": null,
+    "correct": null
+   },
+   {
+    "i": 102,
+    "j": 49,
+    "target": 102,
+    "first": 49,
+    "answer": null,
+    "correct": null
+   },
+   {
+    "i": 102,
+    "j": 49,
+    "target": 49,
+    "first": 102,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 102,
+    "j": 49,
+    "target": 49,
+    "first": 49,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 103,
+    "j": 37,
+    "target": 103,
+    "first": 103,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 103,
+    "j": 37,
+    "target": 103,
+    "first": 37,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 103,
+    "j": 37,
+    "target": 37,
+    "first": 103,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 103,
+    "j": 37,
+    "target": 37,
+    "first": 37,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 97,
+    "j": 6,
+    "target": 97,
+    "first": 97,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 97,
+    "j": 6,
+    "target": 97,
+    "first": 6,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 97,
+    "j": 6,
+    "target": 6,
+    "first": 97,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 97,
+    "j": 6,
+    "target": 6,
+    "first": 6,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 102,
+    "j": 19,
+    "target": 102,
+    "first": 102,
+    "answer": 2,
+    "correct": 0
+   },
+   {
+    "i": 102,
+    "j": 19,
+    "target": 102,
+    "first": 19,
+    "answer": 1,
+    "correct": 0
+   },
+   {
+    "i": 102,
+    "j": 19,
+    "target": 19,
+    "first": 102,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 102,
+    "j": 19,
+    "target": 19,
+    "first": 19,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 56,
+    "j": 75,
+    "target": 56,
+    "first": 56,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 56,
+    "j": 75,
+    "target": 56,
+    "first": 75,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 56,
+    "j": 75,
+    "target": 75,
+    "first": 56,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 56,
+    "j": 75,
+    "target": 75,
+    "first": 75,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 56,
+    "j": 112,
+    "target": 56,
+    "first": 56,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 56,
+    "j": 112,
+    "target": 56,
+    "first": 112,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 56,
+    "j": 112,
+    "target": 112,
+    "first": 56,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 56,
+    "j": 112,
+    "target": 112,
+    "first": 112,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 58,
+    "j": 43,
+    "target": 58,
+    "first": 58,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 58,
+    "j": 43,
+    "target": 58,
+    "first": 43,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 58,
+    "j": 43,
+    "target": 43,
+    "first": 58,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 58,
+    "j": 43,
+    "target": 43,
+    "first": 43,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 60,
+    "j": 10,
+    "target": 60,
+    "first": 60,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 60,
+    "j": 10,
+    "target": 60,
+    "first": 10,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 60,
+    "j": 10,
+    "target": 10,
+    "first": 60,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 60,
+    "j": 10,
+    "target": 10,
+    "first": 10,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 62,
+    "j": 105,
+    "target": 62,
+    "first": 62,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 62,
+    "j": 105,
+    "target": 62,
+    "first": 105,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 62,
+    "j": 105,
+    "target": 105,
+    "first": 62,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 62,
+    "j": 105,
+    "target": 105,
+    "first": 105,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 62,
+    "j": 67,
+    "target": 62,
+    "first": 62,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 62,
+    "j": 67,
+    "target": 62,
+    "first": 67,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 62,
+    "j": 67,
+    "target": 67,
+    "first": 62,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 62,
+    "j": 67,
+    "target": 67,
+    "first": 67,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 57,
+    "j": 49,
+    "target": 57,
+    "first": 57,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 57,
+    "j": 49,
+    "target": 57,
+    "first": 49,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 57,
+    "j": 49,
+    "target": 49,
+    "first": 57,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 57,
+    "j": 49,
+    "target": 49,
+    "first": 49,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 59,
+    "j": 37,
+    "target": 59,
+    "first": 59,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 59,
+    "j": 37,
+    "target": 59,
+    "first": 37,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 59,
+    "j": 37,
+    "target": 37,
+    "first": 59,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 59,
+    "j": 37,
+    "target": 37,
+    "first": 37,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 59,
+    "j": 7,
+    "target": 59,
+    "first": 59,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 59,
+    "j": 7,
+    "target": 59,
+    "first": 7,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 59,
+    "j": 7,
+    "target": 7,
+    "first": 59,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 59,
+    "j": 7,
+    "target": 7,
+    "first": 7,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 60,
+    "j": 23,
+    "target": 60,
+    "first": 60,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 60,
+    "j": 23,
+    "target": 60,
+    "first": 23,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 60,
+    "j": 23,
+    "target": 23,
+    "first": 60,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 60,
+    "j": 23,
+    "target": 23,
+    "first": 23,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 72,
+    "j": 115,
+    "target": 72,
+    "first": 72,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 72,
+    "j": 115,
+    "target": 72,
+    "first": 115,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 72,
+    "j": 115,
+    "target": 115,
+    "first": 72,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 72,
+    "j": 115,
+    "target": 115,
+    "first": 115,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 74,
+    "j": 46,
+    "target": 74,
+    "first": 74,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 74,
+    "j": 46,
+    "target": 74,
+    "first": 46,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 74,
+    "j": 46,
+    "target": 46,
+    "first": 74,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 74,
+    "j": 46,
+    "target": 46,
+    "first": 46,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 78,
+    "j": 15,
+    "target": 78,
+    "first": 78,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 78,
+    "j": 15,
+    "target": 78,
+    "first": 15,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 78,
+    "j": 15,
+    "target": 15,
+    "first": 78,
+    "answer": 1,
+    "correct": 0
+   },
+   {
+    "i": 78,
+    "j": 15,
+    "target": 15,
+    "first": 15,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 77,
+    "j": 105,
+    "target": 77,
+    "first": 77,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 77,
+    "j": 105,
+    "target": 77,
+    "first": 105,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 77,
+    "j": 105,
+    "target": 105,
+    "first": 77,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 77,
+    "j": 105,
+    "target": 105,
+    "first": 105,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 76,
+    "j": 68,
+    "target": 76,
+    "first": 76,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 76,
+    "j": 68,
+    "target": 76,
+    "first": 68,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 76,
+    "j": 68,
+    "target": 68,
+    "first": 76,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 76,
+    "j": 68,
+    "target": 68,
+    "first": 68,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 76,
+    "j": 53,
+    "target": 76,
+    "first": 76,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 76,
+    "j": 53,
+    "target": 76,
+    "first": 53,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 76,
+    "j": 53,
+    "target": 53,
+    "first": 76,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 76,
+    "j": 53,
+    "target": 53,
+    "first": 53,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 79,
+    "j": 38,
+    "target": 79,
+    "first": 79,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 79,
+    "j": 38,
+    "target": 79,
+    "first": 38,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 79,
+    "j": 38,
+    "target": 38,
+    "first": 79,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 79,
+    "j": 38,
+    "target": 38,
+    "first": 38,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 75,
+    "j": 5,
+    "target": 75,
+    "first": 75,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 75,
+    "j": 5,
+    "target": 75,
+    "first": 5,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 75,
+    "j": 5,
+    "target": 5,
+    "first": 75,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 75,
+    "j": 5,
+    "target": 5,
+    "first": 5,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 74,
+    "j": 17,
+    "target": 74,
+    "first": 74,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 74,
+    "j": 17,
+    "target": 74,
+    "first": 17,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 74,
+    "j": 17,
+    "target": 17,
+    "first": 74,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 74,
+    "j": 17,
+    "target": 17,
+    "first": 17,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 119,
+    "j": 41,
+    "target": 119,
+    "first": 119,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 119,
+    "j": 41,
+    "target": 119,
+    "first": 41,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 119,
+    "j": 41,
+    "target": 41,
+    "first": 119,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 119,
+    "j": 41,
+    "target": 41,
+    "first": 41,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 114,
+    "j": 9,
+    "target": 114,
+    "first": 114,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 114,
+    "j": 9,
+    "target": 114,
+    "first": 9,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 114,
+    "j": 9,
+    "target": 9,
+    "first": 114,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 114,
+    "j": 9,
+    "target": 9,
+    "first": 9,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 116,
+    "j": 107,
+    "target": 116,
+    "first": 116,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 116,
+    "j": 107,
+    "target": 116,
+    "first": 107,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 116,
+    "j": 107,
+    "target": 107,
+    "first": 116,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 116,
+    "j": 107,
+    "target": 107,
+    "first": 107,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 117,
+    "j": 66,
+    "target": 117,
+    "first": 117,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 117,
+    "j": 66,
+    "target": 117,
+    "first": 66,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 117,
+    "j": 66,
+    "target": 66,
+    "first": 117,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 117,
+    "j": 66,
+    "target": 66,
+    "first": 66,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 117,
+    "j": 53,
+    "target": 117,
+    "first": 117,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 117,
+    "j": 53,
+    "target": 117,
+    "first": 53,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 117,
+    "j": 53,
+    "target": 53,
+    "first": 117,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 117,
+    "j": 53,
+    "target": 53,
+    "first": 53,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 117,
+    "j": 32,
+    "target": 117,
+    "first": 117,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 117,
+    "j": 32,
+    "target": 117,
+    "first": 32,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 117,
+    "j": 32,
+    "target": 32,
+    "first": 117,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 117,
+    "j": 32,
+    "target": 32,
+    "first": 32,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 116,
+    "j": 7,
+    "target": 116,
+    "first": 116,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 116,
+    "j": 7,
+    "target": 116,
+    "first": 7,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 116,
+    "j": 7,
+    "target": 7,
+    "first": 116,
+    "answer": null,
+    "correct": null
+   },
+   {
+    "i": 116,
+    "j": 7,
+    "target": 7,
+    "first": 7,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 116,
+    "j": 16,
+    "target": 116,
+    "first": 116,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 116,
+    "j": 16,
+    "target": 116,
+    "first": 16,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 116,
+    "j": 16,
+    "target": 16,
+    "first": 116,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 116,
+    "j": 16,
+    "target": 16,
+    "first": 16,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 44,
+    "j": 10,
+    "target": 44,
+    "first": 44,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 44,
+    "j": 10,
+    "target": 44,
+    "first": 10,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 44,
+    "j": 10,
+    "target": 10,
+    "first": 44,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 44,
+    "j": 10,
+    "target": 10,
+    "first": 10,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 44,
+    "j": 104,
+    "target": 44,
+    "first": 44,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 44,
+    "j": 104,
+    "target": 44,
+    "first": 104,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 44,
+    "j": 104,
+    "target": 104,
+    "first": 44,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 44,
+    "j": 104,
+    "target": 104,
+    "first": 104,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 45,
+    "j": 65,
+    "target": 45,
+    "first": 45,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 45,
+    "j": 65,
+    "target": 45,
+    "first": 65,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 45,
+    "j": 65,
+    "target": 65,
+    "first": 45,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 45,
+    "j": 65,
+    "target": 65,
+    "first": 65,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 44,
+    "j": 52,
+    "target": 44,
+    "first": 44,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 44,
+    "j": 52,
+    "target": 44,
+    "first": 52,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 44,
+    "j": 52,
+    "target": 52,
+    "first": 44,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 44,
+    "j": 52,
+    "target": 52,
+    "first": 52,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 42,
+    "j": 36,
+    "target": 42,
+    "first": 42,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 42,
+    "j": 36,
+    "target": 42,
+    "first": 36,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 42,
+    "j": 36,
+    "target": 36,
+    "first": 42,
+    "answer": 1,
+    "correct": 0
+   },
+   {
+    "i": 42,
+    "j": 36,
+    "target": 36,
+    "first": 36,
+    "answer": 2,
+    "correct": 0
+   },
+   {
+    "i": 44,
+    "j": 4,
+    "target": 44,
+    "first": 44,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 44,
+    "j": 4,
+    "target": 44,
+    "first": 4,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 44,
+    "j": 4,
+    "target": 4,
+    "first": 44,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 44,
+    "j": 4,
+    "target": 4,
+    "first": 4,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 41,
+    "j": 17,
+    "target": 41,
+    "first": 41,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 41,
+    "j": 17,
+    "target": 41,
+    "first": 17,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 41,
+    "j": 17,
+    "target": 17,
+    "first": 41,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 41,
+    "j": 17,
+    "target": 17,
+    "first": 17,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 14,
+    "j": 106,
+    "target": 14,
+    "first": 14,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 14,
+    "j": 106,
+    "target": 14,
+    "first": 106,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 14,
+    "j": 106,
+    "target": 106,
+    "first": 14,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 14,
+    "j": 106,
+    "target": 106,
+    "first": 106,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 15,
+    "j": 66,
+    "target": 15,
+    "first": 15,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 15,
+    "j": 66,
+    "target": 15,
+    "first": 66,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 15,
+    "j": 66,
+    "target": 66,
+    "first": 15,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 15,
+    "j": 66,
+    "target": 66,
+    "first": 66,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 15,
+    "j": 48,
+    "target": 15,
+    "first": 15,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 15,
+    "j": 48,
+    "target": 15,
+    "first": 48,
+    "answer": 1,
+    "correct": 0
+   },
+   {
+    "i": 15,
+    "j": 48,
+    "target": 48,
+    "first": 15,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 15,
+    "j": 48,
+    "target": 48,
+    "first": 48,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 13,
+    "j": 34,
+    "target": 13,
+    "first": 13,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 13,
+    "j": 34,
+    "target": 13,
+    "first": 34,
+    "answer": 1,
+    "correct": 0
+   },
+   {
+    "i": 13,
+    "j": 34,
+    "target": 34,
+    "first": 13,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 13,
+    "j": 34,
+    "target": 34,
+    "first": 34,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 14,
+    "j": 4,
+    "target": 14,
+    "first": 14,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 14,
+    "j": 4,
+    "target": 14,
+    "first": 4,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 14,
+    "j": 4,
+    "target": 4,
+    "first": 14,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 14,
+    "j": 4,
+    "target": 4,
+    "first": 4,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 10,
+    "j": 16,
+    "target": 10,
+    "first": 10,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 10,
+    "j": 16,
+    "target": 10,
+    "first": 16,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 10,
+    "j": 16,
+    "target": 16,
+    "first": 10,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 10,
+    "j": 16,
+    "target": 16,
+    "first": 16,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 111,
+    "j": 67,
+    "target": 111,
+    "first": 111,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 111,
+    "j": 67,
+    "target": 111,
+    "first": 67,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 111,
+    "j": 67,
+    "target": 67,
+    "first": 111,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 111,
+    "j": 67,
+    "target": 67,
+    "first": 67,
+    "answer": null,
+    "correct": null
+   },
+   {
+    "i": 109,
+    "j": 52,
+    "target": 109,
+    "first": 109,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 109,
+    "j": 52,
+    "target": 109,
+    "first": 52,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 109,
+    "j": 52,
+    "target": 52,
+    "first": 109,
+    "answer": 1,
+    "correct": 0
+   },
+   {
+    "i": 109,
+    "j": 52,
+    "target": 52,
+    "first": 52,
+    "answer": 2,
+    "correct": 0
+   },
+   {
+    "i": 108,
+    "j": 39,
+    "target": 108,
+    "first": 108,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 108,
+    "j": 39,
+    "target": 108,
+    "first": 39,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 108,
+    "j": 39,
+    "target": 39,
+    "first": 108,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 108,
+    "j": 39,
+    "target": 39,
+    "first": 39,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 105,
+    "j": 0,
+    "target": 105,
+    "first": 105,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 105,
+    "j": 0,
+    "target": 105,
+    "first": 0,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 105,
+    "j": 0,
+    "target": 0,
+    "first": 105,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 105,
+    "j": 0,
+    "target": 0,
+    "first": 0,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 110,
+    "j": 23,
+    "target": 110,
+    "first": 110,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 110,
+    "j": 23,
+    "target": 110,
+    "first": 23,
+    "answer": 1,
+    "correct": 0
+   },
+   {
+    "i": 110,
+    "j": 23,
+    "target": 23,
+    "first": 110,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 110,
+    "j": 23,
+    "target": 23,
+    "first": 23,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 69,
+    "j": 53,
+    "target": 69,
+    "first": 69,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 69,
+    "j": 53,
+    "target": 69,
+    "first": 53,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 69,
+    "j": 53,
+    "target": 53,
+    "first": 69,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 69,
+    "j": 53,
+    "target": 53,
+    "first": 53,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 66,
+    "j": 38,
+    "target": 66,
+    "first": 66,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 66,
+    "j": 38,
+    "target": 66,
+    "first": 38,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 66,
+    "j": 38,
+    "target": 38,
+    "first": 66,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 66,
+    "j": 38,
+    "target": 38,
+    "first": 38,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 70,
+    "j": 4,
+    "target": 70,
+    "first": 70,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 70,
+    "j": 4,
+    "target": 70,
+    "first": 4,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 70,
+    "j": 4,
+    "target": 4,
+    "first": 70,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 70,
+    "j": 4,
+    "target": 4,
+    "first": 4,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 66,
+    "j": 16,
+    "target": 66,
+    "first": 66,
+    "answer": null,
+    "correct": null
+   },
+   {
+    "i": 66,
+    "j": 16,
+    "target": 66,
+    "first": 16,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 66,
+    "j": 16,
+    "target": 16,
+    "first": 66,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 66,
+    "j": 16,
+    "target": 16,
+    "first": 16,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 54,
+    "j": 34,
+    "target": 54,
+    "first": 54,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 54,
+    "j": 34,
+    "target": 54,
+    "first": 34,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 54,
+    "j": 34,
+    "target": 34,
+    "first": 54,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 54,
+    "j": 34,
+    "target": 34,
+    "first": 34,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 50,
+    "j": 3,
+    "target": 50,
+    "first": 50,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 50,
+    "j": 3,
+    "target": 50,
+    "first": 3,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 50,
+    "j": 3,
+    "target": 3,
+    "first": 50,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 50,
+    "j": 3,
+    "target": 3,
+    "first": 3,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 52,
+    "j": 16,
+    "target": 52,
+    "first": 52,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 52,
+    "j": 16,
+    "target": 52,
+    "first": 16,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 52,
+    "j": 16,
+    "target": 16,
+    "first": 52,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 52,
+    "j": 16,
+    "target": 16,
+    "first": 16,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 36,
+    "j": 7,
+    "target": 36,
+    "first": 36,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 36,
+    "j": 7,
+    "target": 36,
+    "first": 7,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 36,
+    "j": 7,
+    "target": 7,
+    "first": 36,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 36,
+    "j": 7,
+    "target": 7,
+    "first": 7,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 34,
+    "j": 16,
+    "target": 34,
+    "first": 34,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 34,
+    "j": 16,
+    "target": 34,
+    "first": 16,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 34,
+    "j": 16,
+    "target": 16,
+    "first": 34,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 34,
+    "j": 16,
+    "target": 16,
+    "first": 16,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 7,
+    "j": 17,
+    "target": 7,
+    "first": 7,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 7,
+    "j": 17,
+    "target": 7,
+    "first": 17,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 7,
+    "j": 17,
+    "target": 17,
+    "first": 7,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 7,
+    "j": 17,
+    "target": 17,
+    "first": 17,
+    "answer": 1,
+    "correct": 1
+   }
+  ],
+  "quality": [
+   6,
+   6,
+   7,
+   7,
+   6,
+   7,
+   7,
+   7,
+   6,
+   6,
+   6,
+   6,
+   7,
+   7,
+   7,
+   7,
+   6,
+   6,
+   7,
+   6,
+   7,
+   7,
+   7,
+   7,
+   7,
+   6,
+   7,
+   7,
+   6,
+   7,
+   7,
+   6,
+   7,
+   7,
+   6,
+   7,
+   7,
+   6,
+   6,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   6,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   6,
+   6,
+   7,
+   8,
+   6,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   6,
+   6,
+   7,
+   6,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   6,
+   6,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   6,
+   6,
+   7,
+   7,
+   7,
+   6,
+   6,
+   7,
+   7,
+   7,
+   6,
+   6,
+   7,
+   7,
+   6,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   6,
+   7,
+   6,
+   7,
+   7,
+   6,
+   7,
+   6
+  ]
+ },
+ "no_secret": {
+  "rank": [
+   9,
+   12,
+   9,
+   10,
+   11,
+   9,
+   9,
+   9,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   9,
+   9,
+   2,
+   8,
+   6,
+   2,
+   7,
+   9,
+   13,
+   13,
+   13,
+   12,
+   13,
+   14,
+   13,
+   12,
+   6,
+   6,
+   5,
+   4,
+   5,
+   4,
+   4,
+   5,
+   6,
+   8,
+   8,
+   8,
+   7,
+   5,
+   8,
+   7,
+   2,
+   4,
+   2,
+   3,
+   2,
+   2,
+   3,
+   3,
+   7,
+   8,
+   5,
+   10,
+   10,
+   10,
+   5,
+   7,
+   3,
+   5,
+   4,
+   3,
+   3,
+   4,
+   2,
+   3,
+   5,
+   5,
+   6,
+   6,
+   6,
+   4,
+   6,
+   5,
+   12,
+   14,
+   12,
+   12,
+   12,
+   12,
+   12,
+   13,
+   14,
+   14,
+   15,
+   13,
+   15,
+   12,
+   15,
+   12,
+   6,
+   9,
+   8,
+   9,
+   7,
+   6,
+   7,
+   8,
+   11,
+   10,
+   11,
+   6,
+   8,
+   11,
+   11,
+   11,
+   15,
+   15,
+   15,
+   15,
+   14,
+   15,
+   15,
+   15
+  ],
+  "quality": [
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   6,
+   7,
+   7,
+   7,
+   7,
+   7,
+   6,
+   7,
+   7,
+   7,
+   7,
+   6,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   6,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   8,
+   7,
+   6,
+   7,
+   7,
+   7,
+   7,
+   6,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   8,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7
+  ]
+ },
+ "not_suppressed": {
+  "rank": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "afc_pairs": [
+   [
+    93,
+    82
+   ],
+   [
+    93,
+    30
+   ],
+   [
+    92,
+    101
+   ],
+   [
+    93,
+    62
+   ],
+   [
+    91,
+    73
+   ],
+   [
+    88,
+    113
+   ],
+   [
+    93,
+    43
+   ],
+   [
+    92,
+    10
+   ],
+   [
+    93,
+    106
+   ],
+   [
+    92,
+    65
+   ],
+   [
+    93,
+    50
+   ],
+   [
+    93,
+    39
+   ],
+   [
+    93,
+    7
+   ],
+   [
+    90,
+    20
+   ],
+   [
+    81,
+    31
+   ],
+   [
+    84,
+    97
+   ],
+   [
+    80,
+    56
+   ],
+   [
+    82,
+    73
+   ],
+   [
+    83,
+    114
+   ],
+   [
+    80,
+    41
+   ],
+   [
+    85,
+    10
+   ],
+   [
+    82,
+    106
+   ],
+   [
+    83,
+    70
+   ],
+   [
+    80,
+    50
+   ],
+   [
+    81,
+    37
+   ],
+   [
+    80,
+    0
+   ],
+   [
+    82,
+    20
+   ],
+   [
+    30,
+    96
+   ],
+   [
+    30,
+    61
+   ],
+   [
+    25,
+    77
+   ],
+   [
+    29,
+    117
+   ],
+   [
+    30,
+    42
+   ],
+   [
+    30,
+    12
+   ],
+   [
+    29,
+    110
+   ],
+   [
+    27,
+    70
+   ],
+   [
+    29,
+    50
+   ],
+   [
+    29,
+    33
+   ],
+   [
+    31,
+    0
+   ],
+   [
+    27,
+    16
+   ],
+   [
+    102,
+    56
+   ],
+   [
+    97,
+    77
+   ],
+   [
+    97,
+    115
+   ],
+   [
+    99,
+    46
+   ],
+   [
+    96,
+    14
+   ],
+   [
+    100,
+    105
+   ],
+   [
+    98,
+    66
+   ],
+   [
+    98,
+    52
+   ],
+   [
+    100,
+    34
+   ],
+   [
+    99,
+    2
+   ],
+   [
+    103,
+    17
+   ],
+   [
+    58,
+    78
+   ],
+   [
+    61,
+    113
+   ],
+   [
+    63,
+    45
+   ],
+   [
+    63,
+    12
+   ],
+   [
+    62,
+    110
+   ],
+   [
+    57,
+    65
+   ],
+   [
+    59,
+    54
+   ],
+   [
+    63,
+    37
+   ],
+   [
+    62,
+    6
+   ],
+   [
+    56,
+    21
+   ],
+   [
+    73,
+    117
+   ],
+   [
+    76,
+    47
+   ],
+   [
+    72,
+    14
+   ],
+   [
+    79,
+    106
+   ],
+   [
+    79,
+    67
+   ],
+   [
+    78,
+    54
+   ],
+   [
+    75,
+    34
+   ],
+   [
+    77,
+    3
+   ],
+   [
+    74,
+    22
+   ],
+   [
+    115,
+    40
+   ],
+   [
+    113,
+    15
+   ],
+   [
+    116,
+    106
+   ],
+   [
+    113,
+    69
+   ],
+   [
+    115,
+    54
+   ],
+   [
+    112,
+    39
+   ],
+   [
+    113,
+    4
+   ],
+   [
+    113,
+    23
+   ],
+   [
+    47,
+    13
+   ],
+   [
+    47,
+    106
+   ],
+   [
+    41,
+    71
+   ],
+   [
+    43,
+    54
+   ],
+   [
+    41,
+    39
+   ],
+   [
+    40,
+    0
+   ],
+   [
+    45,
+    17
+   ],
+   [
+    15,
+    104
+   ],
+   [
+    13,
+    70
+   ],
+   [
+    15,
+    49
+   ],
+   [
+    10,
+    39
+   ],
+   [
+    12,
+    3
+   ],
+   [
+    13,
+    20
+   ],
+   [
+    105,
+    71
+   ],
+   [
+    105,
+    48
+   ],
+   [
+    110,
+    35
+   ],
+   [
+    109,
+    5
+   ],
+   [
+    108,
+    23
+   ],
+   [
+    70,
+    48
+   ],
+   [
+    69,
+    39
+   ],
+   [
+    70,
+    1
+   ],
+   [
+    71,
+    22
+   ],
+   [
+    55,
+    37
+   ],
+   [
+    52,
+    2
+   ],
+   [
+    55,
+    19
+   ],
+   [
+    39,
+    7
+   ],
+   [
+    39,
+    17
+   ],
+   [
+    5,
+    18
+   ]
+  ],
+  "afc": [
+   {
+    "i": 93,
+    "j": 82,
+    "target": 93,
+    "first": 93,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 93,
+    "j": 82,
+    "target": 93,
+    "first": 82,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 93,
+    "j": 82,
+    "target": 82,
+    "first": 93,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 93,
+    "j": 82,
+    "target": 82,
+    "first": 82,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 93,
+    "j": 30,
+    "target": 93,
+    "first": 93,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 93,
+    "j": 30,
+    "target": 93,
+    "first": 30,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 93,
+    "j": 30,
+    "target": 30,
+    "first": 93,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 93,
+    "j": 30,
+    "target": 30,
+    "first": 30,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 92,
+    "j": 101,
+    "target": 92,
+    "first": 92,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 92,
+    "j": 101,
+    "target": 92,
+    "first": 101,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 92,
+    "j": 101,
+    "target": 101,
+    "first": 92,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 92,
+    "j": 101,
+    "target": 101,
+    "first": 101,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 93,
+    "j": 62,
+    "target": 93,
+    "first": 93,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 93,
+    "j": 62,
+    "target": 93,
+    "first": 62,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 93,
+    "j": 62,
+    "target": 62,
+    "first": 93,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 93,
+    "j": 62,
+    "target": 62,
+    "first": 62,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 91,
+    "j": 73,
+    "target": 91,
+    "first": 91,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 91,
+    "j": 73,
+    "target": 91,
+    "first": 73,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 91,
+    "j": 73,
+    "target": 73,
+    "first": 91,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 91,
+    "j": 73,
+    "target": 73,
+    "first": 73,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 88,
+    "j": 113,
+    "target": 88,
+    "first": 88,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 88,
+    "j": 113,
+    "target": 88,
+    "first": 113,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 88,
+    "j": 113,
+    "target": 113,
+    "first": 88,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 88,
+    "j": 113,
+    "target": 113,
+    "first": 113,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 93,
+    "j": 43,
+    "target": 93,
+    "first": 93,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 93,
+    "j": 43,
+    "target": 93,
+    "first": 43,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 93,
+    "j": 43,
+    "target": 43,
+    "first": 93,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 93,
+    "j": 43,
+    "target": 43,
+    "first": 43,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 92,
+    "j": 10,
+    "target": 92,
+    "first": 92,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 92,
+    "j": 10,
+    "target": 92,
+    "first": 10,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 92,
+    "j": 10,
+    "target": 10,
+    "first": 92,
+    "answer": null,
+    "correct": null
+   },
+   {
+    "i": 92,
+    "j": 10,
+    "target": 10,
+    "first": 10,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 93,
+    "j": 106,
+    "target": 93,
+    "first": 93,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 93,
+    "j": 106,
+    "target": 93,
+    "first": 106,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 93,
+    "j": 106,
+    "target": 106,
+    "first": 93,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 93,
+    "j": 106,
+    "target": 106,
+    "first": 106,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 92,
+    "j": 65,
+    "target": 92,
+    "first": 92,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 92,
+    "j": 65,
+    "target": 92,
+    "first": 65,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 92,
+    "j": 65,
+    "target": 65,
+    "first": 92,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 92,
+    "j": 65,
+    "target": 65,
+    "first": 65,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 93,
+    "j": 50,
+    "target": 93,
+    "first": 93,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 93,
+    "j": 50,
+    "target": 93,
+    "first": 50,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 93,
+    "j": 50,
+    "target": 50,
+    "first": 93,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 93,
+    "j": 50,
+    "target": 50,
+    "first": 50,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 93,
+    "j": 39,
+    "target": 93,
+    "first": 93,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 93,
+    "j": 39,
+    "target": 93,
+    "first": 39,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 93,
+    "j": 39,
+    "target": 39,
+    "first": 93,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 93,
+    "j": 39,
+    "target": 39,
+    "first": 39,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 93,
+    "j": 7,
+    "target": 93,
+    "first": 93,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 93,
+    "j": 7,
+    "target": 93,
+    "first": 7,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 93,
+    "j": 7,
+    "target": 7,
+    "first": 93,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 93,
+    "j": 7,
+    "target": 7,
+    "first": 7,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 90,
+    "j": 20,
+    "target": 90,
+    "first": 90,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 90,
+    "j": 20,
+    "target": 90,
+    "first": 20,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 90,
+    "j": 20,
+    "target": 20,
+    "first": 90,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 90,
+    "j": 20,
+    "target": 20,
+    "first": 20,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 81,
+    "j": 31,
+    "target": 81,
+    "first": 81,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 81,
+    "j": 31,
+    "target": 81,
+    "first": 31,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 81,
+    "j": 31,
+    "target": 31,
+    "first": 81,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 81,
+    "j": 31,
+    "target": 31,
+    "first": 31,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 84,
+    "j": 97,
+    "target": 84,
+    "first": 84,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 84,
+    "j": 97,
+    "target": 84,
+    "first": 97,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 84,
+    "j": 97,
+    "target": 97,
+    "first": 84,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 84,
+    "j": 97,
+    "target": 97,
+    "first": 97,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 80,
+    "j": 56,
+    "target": 80,
+    "first": 80,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 80,
+    "j": 56,
+    "target": 80,
+    "first": 56,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 80,
+    "j": 56,
+    "target": 56,
+    "first": 80,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 80,
+    "j": 56,
+    "target": 56,
+    "first": 56,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 82,
+    "j": 73,
+    "target": 82,
+    "first": 82,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 82,
+    "j": 73,
+    "target": 82,
+    "first": 73,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 82,
+    "j": 73,
+    "target": 73,
+    "first": 82,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 82,
+    "j": 73,
+    "target": 73,
+    "first": 73,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 83,
+    "j": 114,
+    "target": 83,
+    "first": 83,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 83,
+    "j": 114,
+    "target": 83,
+    "first": 114,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 83,
+    "j": 114,
+    "target": 114,
+    "first": 83,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 83,
+    "j": 114,
+    "target": 114,
+    "first": 114,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 80,
+    "j": 41,
+    "target": 80,
+    "first": 80,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 80,
+    "j": 41,
+    "target": 80,
+    "first": 41,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 80,
+    "j": 41,
+    "target": 41,
+    "first": 80,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 80,
+    "j": 41,
+    "target": 41,
+    "first": 41,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 85,
+    "j": 10,
+    "target": 85,
+    "first": 85,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 85,
+    "j": 10,
+    "target": 85,
+    "first": 10,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 85,
+    "j": 10,
+    "target": 10,
+    "first": 85,
+    "answer": 1,
+    "correct": 0
+   },
+   {
+    "i": 85,
+    "j": 10,
+    "target": 10,
+    "first": 10,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 82,
+    "j": 106,
+    "target": 82,
+    "first": 82,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 82,
+    "j": 106,
+    "target": 82,
+    "first": 106,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 82,
+    "j": 106,
+    "target": 106,
+    "first": 82,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 82,
+    "j": 106,
+    "target": 106,
+    "first": 106,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 83,
+    "j": 70,
+    "target": 83,
+    "first": 83,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 83,
+    "j": 70,
+    "target": 83,
+    "first": 70,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 83,
+    "j": 70,
+    "target": 70,
+    "first": 83,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 83,
+    "j": 70,
+    "target": 70,
+    "first": 70,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 80,
+    "j": 50,
+    "target": 80,
+    "first": 80,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 80,
+    "j": 50,
+    "target": 80,
+    "first": 50,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 80,
+    "j": 50,
+    "target": 50,
+    "first": 80,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 80,
+    "j": 50,
+    "target": 50,
+    "first": 50,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 81,
+    "j": 37,
+    "target": 81,
+    "first": 81,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 81,
+    "j": 37,
+    "target": 81,
+    "first": 37,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 81,
+    "j": 37,
+    "target": 37,
+    "first": 81,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 81,
+    "j": 37,
+    "target": 37,
+    "first": 37,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 80,
+    "j": 0,
+    "target": 80,
+    "first": 80,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 80,
+    "j": 0,
+    "target": 80,
+    "first": 0,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 80,
+    "j": 0,
+    "target": 0,
+    "first": 80,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 80,
+    "j": 0,
+    "target": 0,
+    "first": 0,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 82,
+    "j": 20,
+    "target": 82,
+    "first": 82,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 82,
+    "j": 20,
+    "target": 82,
+    "first": 20,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 82,
+    "j": 20,
+    "target": 20,
+    "first": 82,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 82,
+    "j": 20,
+    "target": 20,
+    "first": 20,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 30,
+    "j": 96,
+    "target": 30,
+    "first": 30,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 30,
+    "j": 96,
+    "target": 30,
+    "first": 96,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 30,
+    "j": 96,
+    "target": 96,
+    "first": 30,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 30,
+    "j": 96,
+    "target": 96,
+    "first": 96,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 30,
+    "j": 61,
+    "target": 30,
+    "first": 30,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 30,
+    "j": 61,
+    "target": 30,
+    "first": 61,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 30,
+    "j": 61,
+    "target": 61,
+    "first": 30,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 30,
+    "j": 61,
+    "target": 61,
+    "first": 61,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 25,
+    "j": 77,
+    "target": 25,
+    "first": 25,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 25,
+    "j": 77,
+    "target": 25,
+    "first": 77,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 25,
+    "j": 77,
+    "target": 77,
+    "first": 25,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 25,
+    "j": 77,
+    "target": 77,
+    "first": 77,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 29,
+    "j": 117,
+    "target": 29,
+    "first": 29,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 29,
+    "j": 117,
+    "target": 29,
+    "first": 117,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 29,
+    "j": 117,
+    "target": 117,
+    "first": 29,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 29,
+    "j": 117,
+    "target": 117,
+    "first": 117,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 30,
+    "j": 42,
+    "target": 30,
+    "first": 30,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 30,
+    "j": 42,
+    "target": 30,
+    "first": 42,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 30,
+    "j": 42,
+    "target": 42,
+    "first": 30,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 30,
+    "j": 42,
+    "target": 42,
+    "first": 42,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 30,
+    "j": 12,
+    "target": 30,
+    "first": 30,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 30,
+    "j": 12,
+    "target": 30,
+    "first": 12,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 30,
+    "j": 12,
+    "target": 12,
+    "first": 30,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 30,
+    "j": 12,
+    "target": 12,
+    "first": 12,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 29,
+    "j": 110,
+    "target": 29,
+    "first": 29,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 29,
+    "j": 110,
+    "target": 29,
+    "first": 110,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 29,
+    "j": 110,
+    "target": 110,
+    "first": 29,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 29,
+    "j": 110,
+    "target": 110,
+    "first": 110,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 27,
+    "j": 70,
+    "target": 27,
+    "first": 27,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 27,
+    "j": 70,
+    "target": 27,
+    "first": 70,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 27,
+    "j": 70,
+    "target": 70,
+    "first": 27,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 27,
+    "j": 70,
+    "target": 70,
+    "first": 70,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 29,
+    "j": 50,
+    "target": 29,
+    "first": 29,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 29,
+    "j": 50,
+    "target": 29,
+    "first": 50,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 29,
+    "j": 50,
+    "target": 50,
+    "first": 29,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 29,
+    "j": 50,
+    "target": 50,
+    "first": 50,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 29,
+    "j": 33,
+    "target": 29,
+    "first": 29,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 29,
+    "j": 33,
+    "target": 29,
+    "first": 33,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 29,
+    "j": 33,
+    "target": 33,
+    "first": 29,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 29,
+    "j": 33,
+    "target": 33,
+    "first": 33,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 31,
+    "j": 0,
+    "target": 31,
+    "first": 31,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 31,
+    "j": 0,
+    "target": 31,
+    "first": 0,
+    "answer": null,
+    "correct": null
+   },
+   {
+    "i": 31,
+    "j": 0,
+    "target": 0,
+    "first": 31,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 31,
+    "j": 0,
+    "target": 0,
+    "first": 0,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 27,
+    "j": 16,
+    "target": 27,
+    "first": 27,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 27,
+    "j": 16,
+    "target": 27,
+    "first": 16,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 27,
+    "j": 16,
+    "target": 16,
+    "first": 27,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 27,
+    "j": 16,
+    "target": 16,
+    "first": 16,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 102,
+    "j": 56,
+    "target": 102,
+    "first": 102,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 102,
+    "j": 56,
+    "target": 102,
+    "first": 56,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 102,
+    "j": 56,
+    "target": 56,
+    "first": 102,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 102,
+    "j": 56,
+    "target": 56,
+    "first": 56,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 97,
+    "j": 77,
+    "target": 97,
+    "first": 97,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 97,
+    "j": 77,
+    "target": 97,
+    "first": 77,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 97,
+    "j": 77,
+    "target": 77,
+    "first": 97,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 97,
+    "j": 77,
+    "target": 77,
+    "first": 77,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 97,
+    "j": 115,
+    "target": 97,
+    "first": 97,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 97,
+    "j": 115,
+    "target": 97,
+    "first": 115,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 97,
+    "j": 115,
+    "target": 115,
+    "first": 97,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 97,
+    "j": 115,
+    "target": 115,
+    "first": 115,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 99,
+    "j": 46,
+    "target": 99,
+    "first": 99,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 99,
+    "j": 46,
+    "target": 99,
+    "first": 46,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 99,
+    "j": 46,
+    "target": 46,
+    "first": 99,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 99,
+    "j": 46,
+    "target": 46,
+    "first": 46,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 96,
+    "j": 14,
+    "target": 96,
+    "first": 96,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 96,
+    "j": 14,
+    "target": 96,
+    "first": 14,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 96,
+    "j": 14,
+    "target": 14,
+    "first": 96,
+    "answer": null,
+    "correct": null
+   },
+   {
+    "i": 96,
+    "j": 14,
+    "target": 14,
+    "first": 14,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 100,
+    "j": 105,
+    "target": 100,
+    "first": 100,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 100,
+    "j": 105,
+    "target": 100,
+    "first": 105,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 100,
+    "j": 105,
+    "target": 105,
+    "first": 100,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 100,
+    "j": 105,
+    "target": 105,
+    "first": 105,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 98,
+    "j": 66,
+    "target": 98,
+    "first": 98,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 98,
+    "j": 66,
+    "target": 98,
+    "first": 66,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 98,
+    "j": 66,
+    "target": 66,
+    "first": 98,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 98,
+    "j": 66,
+    "target": 66,
+    "first": 66,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 98,
+    "j": 52,
+    "target": 98,
+    "first": 98,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 98,
+    "j": 52,
+    "target": 98,
+    "first": 52,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 98,
+    "j": 52,
+    "target": 52,
+    "first": 98,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 98,
+    "j": 52,
+    "target": 52,
+    "first": 52,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 100,
+    "j": 34,
+    "target": 100,
+    "first": 100,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 100,
+    "j": 34,
+    "target": 100,
+    "first": 34,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 100,
+    "j": 34,
+    "target": 34,
+    "first": 100,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 100,
+    "j": 34,
+    "target": 34,
+    "first": 34,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 99,
+    "j": 2,
+    "target": 99,
+    "first": 99,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 99,
+    "j": 2,
+    "target": 99,
+    "first": 2,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 99,
+    "j": 2,
+    "target": 2,
+    "first": 99,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 99,
+    "j": 2,
+    "target": 2,
+    "first": 2,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 103,
+    "j": 17,
+    "target": 103,
+    "first": 103,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 103,
+    "j": 17,
+    "target": 103,
+    "first": 17,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 103,
+    "j": 17,
+    "target": 17,
+    "first": 103,
+    "answer": null,
+    "correct": null
+   },
+   {
+    "i": 103,
+    "j": 17,
+    "target": 17,
+    "first": 17,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 58,
+    "j": 78,
+    "target": 58,
+    "first": 58,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 58,
+    "j": 78,
+    "target": 58,
+    "first": 78,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 58,
+    "j": 78,
+    "target": 78,
+    "first": 58,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 58,
+    "j": 78,
+    "target": 78,
+    "first": 78,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 61,
+    "j": 113,
+    "target": 61,
+    "first": 61,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 61,
+    "j": 113,
+    "target": 61,
+    "first": 113,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 61,
+    "j": 113,
+    "target": 113,
+    "first": 61,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 61,
+    "j": 113,
+    "target": 113,
+    "first": 113,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 63,
+    "j": 45,
+    "target": 63,
+    "first": 63,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 63,
+    "j": 45,
+    "target": 63,
+    "first": 45,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 63,
+    "j": 45,
+    "target": 45,
+    "first": 63,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 63,
+    "j": 45,
+    "target": 45,
+    "first": 45,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 63,
+    "j": 12,
+    "target": 63,
+    "first": 63,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 63,
+    "j": 12,
+    "target": 63,
+    "first": 12,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 63,
+    "j": 12,
+    "target": 12,
+    "first": 63,
+    "answer": null,
+    "correct": null
+   },
+   {
+    "i": 63,
+    "j": 12,
+    "target": 12,
+    "first": 12,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 62,
+    "j": 110,
+    "target": 62,
+    "first": 62,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 62,
+    "j": 110,
+    "target": 62,
+    "first": 110,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 62,
+    "j": 110,
+    "target": 110,
+    "first": 62,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 62,
+    "j": 110,
+    "target": 110,
+    "first": 110,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 57,
+    "j": 65,
+    "target": 57,
+    "first": 57,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 57,
+    "j": 65,
+    "target": 57,
+    "first": 65,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 57,
+    "j": 65,
+    "target": 65,
+    "first": 57,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 57,
+    "j": 65,
+    "target": 65,
+    "first": 65,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 59,
+    "j": 54,
+    "target": 59,
+    "first": 59,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 59,
+    "j": 54,
+    "target": 59,
+    "first": 54,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 59,
+    "j": 54,
+    "target": 54,
+    "first": 59,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 59,
+    "j": 54,
+    "target": 54,
+    "first": 54,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 63,
+    "j": 37,
+    "target": 63,
+    "first": 63,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 63,
+    "j": 37,
+    "target": 63,
+    "first": 37,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 63,
+    "j": 37,
+    "target": 37,
+    "first": 63,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 63,
+    "j": 37,
+    "target": 37,
+    "first": 37,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 62,
+    "j": 6,
+    "target": 62,
+    "first": 62,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 62,
+    "j": 6,
+    "target": 62,
+    "first": 6,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 62,
+    "j": 6,
+    "target": 6,
+    "first": 62,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 62,
+    "j": 6,
+    "target": 6,
+    "first": 6,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 56,
+    "j": 21,
+    "target": 56,
+    "first": 56,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 56,
+    "j": 21,
+    "target": 56,
+    "first": 21,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 56,
+    "j": 21,
+    "target": 21,
+    "first": 56,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 56,
+    "j": 21,
+    "target": 21,
+    "first": 21,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 73,
+    "j": 117,
+    "target": 73,
+    "first": 73,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 73,
+    "j": 117,
+    "target": 73,
+    "first": 117,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 73,
+    "j": 117,
+    "target": 117,
+    "first": 73,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 73,
+    "j": 117,
+    "target": 117,
+    "first": 117,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 76,
+    "j": 47,
+    "target": 76,
+    "first": 76,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 76,
+    "j": 47,
+    "target": 76,
+    "first": 47,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 76,
+    "j": 47,
+    "target": 47,
+    "first": 76,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 76,
+    "j": 47,
+    "target": 47,
+    "first": 47,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 72,
+    "j": 14,
+    "target": 72,
+    "first": 72,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 72,
+    "j": 14,
+    "target": 72,
+    "first": 14,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 72,
+    "j": 14,
+    "target": 14,
+    "first": 72,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 72,
+    "j": 14,
+    "target": 14,
+    "first": 14,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 79,
+    "j": 106,
+    "target": 79,
+    "first": 79,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 79,
+    "j": 106,
+    "target": 79,
+    "first": 106,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 79,
+    "j": 106,
+    "target": 106,
+    "first": 79,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 79,
+    "j": 106,
+    "target": 106,
+    "first": 106,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 79,
+    "j": 67,
+    "target": 79,
+    "first": 79,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 79,
+    "j": 67,
+    "target": 79,
+    "first": 67,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 79,
+    "j": 67,
+    "target": 67,
+    "first": 79,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 79,
+    "j": 67,
+    "target": 67,
+    "first": 67,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 78,
+    "j": 54,
+    "target": 78,
+    "first": 78,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 78,
+    "j": 54,
+    "target": 78,
+    "first": 54,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 78,
+    "j": 54,
+    "target": 54,
+    "first": 78,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 78,
+    "j": 54,
+    "target": 54,
+    "first": 54,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 75,
+    "j": 34,
+    "target": 75,
+    "first": 75,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 75,
+    "j": 34,
+    "target": 75,
+    "first": 34,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 75,
+    "j": 34,
+    "target": 34,
+    "first": 75,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 75,
+    "j": 34,
+    "target": 34,
+    "first": 34,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 77,
+    "j": 3,
+    "target": 77,
+    "first": 77,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 77,
+    "j": 3,
+    "target": 77,
+    "first": 3,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 77,
+    "j": 3,
+    "target": 3,
+    "first": 77,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 77,
+    "j": 3,
+    "target": 3,
+    "first": 3,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 74,
+    "j": 22,
+    "target": 74,
+    "first": 74,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 74,
+    "j": 22,
+    "target": 74,
+    "first": 22,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 74,
+    "j": 22,
+    "target": 22,
+    "first": 74,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 74,
+    "j": 22,
+    "target": 22,
+    "first": 22,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 115,
+    "j": 40,
+    "target": 115,
+    "first": 115,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 115,
+    "j": 40,
+    "target": 115,
+    "first": 40,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 115,
+    "j": 40,
+    "target": 40,
+    "first": 115,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 115,
+    "j": 40,
+    "target": 40,
+    "first": 40,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 113,
+    "j": 15,
+    "target": 113,
+    "first": 113,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 113,
+    "j": 15,
+    "target": 113,
+    "first": 15,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 113,
+    "j": 15,
+    "target": 15,
+    "first": 113,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 113,
+    "j": 15,
+    "target": 15,
+    "first": 15,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 116,
+    "j": 106,
+    "target": 116,
+    "first": 116,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 116,
+    "j": 106,
+    "target": 116,
+    "first": 106,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 116,
+    "j": 106,
+    "target": 106,
+    "first": 116,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 116,
+    "j": 106,
+    "target": 106,
+    "first": 106,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 113,
+    "j": 69,
+    "target": 113,
+    "first": 113,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 113,
+    "j": 69,
+    "target": 113,
+    "first": 69,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 113,
+    "j": 69,
+    "target": 69,
+    "first": 113,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 113,
+    "j": 69,
+    "target": 69,
+    "first": 69,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 115,
+    "j": 54,
+    "target": 115,
+    "first": 115,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 115,
+    "j": 54,
+    "target": 115,
+    "first": 54,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 115,
+    "j": 54,
+    "target": 54,
+    "first": 115,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 115,
+    "j": 54,
+    "target": 54,
+    "first": 54,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 112,
+    "j": 39,
+    "target": 112,
+    "first": 112,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 112,
+    "j": 39,
+    "target": 112,
+    "first": 39,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 112,
+    "j": 39,
+    "target": 39,
+    "first": 112,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 112,
+    "j": 39,
+    "target": 39,
+    "first": 39,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 113,
+    "j": 4,
+    "target": 113,
+    "first": 113,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 113,
+    "j": 4,
+    "target": 113,
+    "first": 4,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 113,
+    "j": 4,
+    "target": 4,
+    "first": 113,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 113,
+    "j": 4,
+    "target": 4,
+    "first": 4,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 113,
+    "j": 23,
+    "target": 113,
+    "first": 113,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 113,
+    "j": 23,
+    "target": 113,
+    "first": 23,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 113,
+    "j": 23,
+    "target": 23,
+    "first": 113,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 113,
+    "j": 23,
+    "target": 23,
+    "first": 23,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 47,
+    "j": 13,
+    "target": 47,
+    "first": 47,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 47,
+    "j": 13,
+    "target": 47,
+    "first": 13,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 47,
+    "j": 13,
+    "target": 13,
+    "first": 47,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 47,
+    "j": 13,
+    "target": 13,
+    "first": 13,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 47,
+    "j": 106,
+    "target": 47,
+    "first": 47,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 47,
+    "j": 106,
+    "target": 47,
+    "first": 106,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 47,
+    "j": 106,
+    "target": 106,
+    "first": 47,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 47,
+    "j": 106,
+    "target": 106,
+    "first": 106,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 41,
+    "j": 71,
+    "target": 41,
+    "first": 41,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 41,
+    "j": 71,
+    "target": 41,
+    "first": 71,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 41,
+    "j": 71,
+    "target": 71,
+    "first": 41,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 41,
+    "j": 71,
+    "target": 71,
+    "first": 71,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 43,
+    "j": 54,
+    "target": 43,
+    "first": 43,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 43,
+    "j": 54,
+    "target": 43,
+    "first": 54,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 43,
+    "j": 54,
+    "target": 54,
+    "first": 43,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 43,
+    "j": 54,
+    "target": 54,
+    "first": 54,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 41,
+    "j": 39,
+    "target": 41,
+    "first": 41,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 41,
+    "j": 39,
+    "target": 41,
+    "first": 39,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 41,
+    "j": 39,
+    "target": 39,
+    "first": 41,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 41,
+    "j": 39,
+    "target": 39,
+    "first": 39,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 40,
+    "j": 0,
+    "target": 40,
+    "first": 40,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 40,
+    "j": 0,
+    "target": 40,
+    "first": 0,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 40,
+    "j": 0,
+    "target": 0,
+    "first": 40,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 40,
+    "j": 0,
+    "target": 0,
+    "first": 0,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 45,
+    "j": 17,
+    "target": 45,
+    "first": 45,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 45,
+    "j": 17,
+    "target": 45,
+    "first": 17,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 45,
+    "j": 17,
+    "target": 17,
+    "first": 45,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 45,
+    "j": 17,
+    "target": 17,
+    "first": 17,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 15,
+    "j": 104,
+    "target": 15,
+    "first": 15,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 15,
+    "j": 104,
+    "target": 15,
+    "first": 104,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 15,
+    "j": 104,
+    "target": 104,
+    "first": 15,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 15,
+    "j": 104,
+    "target": 104,
+    "first": 104,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 13,
+    "j": 70,
+    "target": 13,
+    "first": 13,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 13,
+    "j": 70,
+    "target": 13,
+    "first": 70,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 13,
+    "j": 70,
+    "target": 70,
+    "first": 13,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 13,
+    "j": 70,
+    "target": 70,
+    "first": 70,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 15,
+    "j": 49,
+    "target": 15,
+    "first": 15,
+    "answer": null,
+    "correct": null
+   },
+   {
+    "i": 15,
+    "j": 49,
+    "target": 15,
+    "first": 49,
+    "answer": null,
+    "correct": null
+   },
+   {
+    "i": 15,
+    "j": 49,
+    "target": 49,
+    "first": 15,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 15,
+    "j": 49,
+    "target": 49,
+    "first": 49,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 10,
+    "j": 39,
+    "target": 10,
+    "first": 10,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 10,
+    "j": 39,
+    "target": 10,
+    "first": 39,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 10,
+    "j": 39,
+    "target": 39,
+    "first": 10,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 10,
+    "j": 39,
+    "target": 39,
+    "first": 39,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 12,
+    "j": 3,
+    "target": 12,
+    "first": 12,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 12,
+    "j": 3,
+    "target": 12,
+    "first": 3,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 12,
+    "j": 3,
+    "target": 3,
+    "first": 12,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 12,
+    "j": 3,
+    "target": 3,
+    "first": 3,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 13,
+    "j": 20,
+    "target": 13,
+    "first": 13,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 13,
+    "j": 20,
+    "target": 13,
+    "first": 20,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 13,
+    "j": 20,
+    "target": 20,
+    "first": 13,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 13,
+    "j": 20,
+    "target": 20,
+    "first": 20,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 105,
+    "j": 71,
+    "target": 105,
+    "first": 105,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 105,
+    "j": 71,
+    "target": 105,
+    "first": 71,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 105,
+    "j": 71,
+    "target": 71,
+    "first": 105,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 105,
+    "j": 71,
+    "target": 71,
+    "first": 71,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 105,
+    "j": 48,
+    "target": 105,
+    "first": 105,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 105,
+    "j": 48,
+    "target": 105,
+    "first": 48,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 105,
+    "j": 48,
+    "target": 48,
+    "first": 105,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 105,
+    "j": 48,
+    "target": 48,
+    "first": 48,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 110,
+    "j": 35,
+    "target": 110,
+    "first": 110,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 110,
+    "j": 35,
+    "target": 110,
+    "first": 35,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 110,
+    "j": 35,
+    "target": 35,
+    "first": 110,
+    "answer": null,
+    "correct": null
+   },
+   {
+    "i": 110,
+    "j": 35,
+    "target": 35,
+    "first": 35,
+    "answer": 2,
+    "correct": 0
+   },
+   {
+    "i": 109,
+    "j": 5,
+    "target": 109,
+    "first": 109,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 109,
+    "j": 5,
+    "target": 109,
+    "first": 5,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 109,
+    "j": 5,
+    "target": 5,
+    "first": 109,
+    "answer": 1,
+    "correct": 0
+   },
+   {
+    "i": 109,
+    "j": 5,
+    "target": 5,
+    "first": 5,
+    "answer": 2,
+    "correct": 0
+   },
+   {
+    "i": 108,
+    "j": 23,
+    "target": 108,
+    "first": 108,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 108,
+    "j": 23,
+    "target": 108,
+    "first": 23,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 108,
+    "j": 23,
+    "target": 23,
+    "first": 108,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 108,
+    "j": 23,
+    "target": 23,
+    "first": 23,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 70,
+    "j": 48,
+    "target": 70,
+    "first": 70,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 70,
+    "j": 48,
+    "target": 70,
+    "first": 48,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 70,
+    "j": 48,
+    "target": 48,
+    "first": 70,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 70,
+    "j": 48,
+    "target": 48,
+    "first": 48,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 69,
+    "j": 39,
+    "target": 69,
+    "first": 69,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 69,
+    "j": 39,
+    "target": 69,
+    "first": 39,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 69,
+    "j": 39,
+    "target": 39,
+    "first": 69,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 69,
+    "j": 39,
+    "target": 39,
+    "first": 39,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 70,
+    "j": 1,
+    "target": 70,
+    "first": 70,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 70,
+    "j": 1,
+    "target": 70,
+    "first": 1,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 70,
+    "j": 1,
+    "target": 1,
+    "first": 70,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 70,
+    "j": 1,
+    "target": 1,
+    "first": 1,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 71,
+    "j": 22,
+    "target": 71,
+    "first": 71,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 71,
+    "j": 22,
+    "target": 71,
+    "first": 22,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 71,
+    "j": 22,
+    "target": 22,
+    "first": 71,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 71,
+    "j": 22,
+    "target": 22,
+    "first": 22,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 55,
+    "j": 37,
+    "target": 55,
+    "first": 55,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 55,
+    "j": 37,
+    "target": 55,
+    "first": 37,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 55,
+    "j": 37,
+    "target": 37,
+    "first": 55,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 55,
+    "j": 37,
+    "target": 37,
+    "first": 37,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 52,
+    "j": 2,
+    "target": 52,
+    "first": 52,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 52,
+    "j": 2,
+    "target": 52,
+    "first": 2,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 52,
+    "j": 2,
+    "target": 2,
+    "first": 52,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 52,
+    "j": 2,
+    "target": 2,
+    "first": 2,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 55,
+    "j": 19,
+    "target": 55,
+    "first": 55,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 55,
+    "j": 19,
+    "target": 55,
+    "first": 19,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 55,
+    "j": 19,
+    "target": 19,
+    "first": 55,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 55,
+    "j": 19,
+    "target": 19,
+    "first": 19,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 39,
+    "j": 7,
+    "target": 39,
+    "first": 39,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 39,
+    "j": 7,
+    "target": 39,
+    "first": 7,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 39,
+    "j": 7,
+    "target": 7,
+    "first": 39,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 39,
+    "j": 7,
+    "target": 7,
+    "first": 7,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 39,
+    "j": 17,
+    "target": 39,
+    "first": 39,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 39,
+    "j": 17,
+    "target": 39,
+    "first": 17,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 39,
+    "j": 17,
+    "target": 17,
+    "first": 39,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 39,
+    "j": 17,
+    "target": 17,
+    "first": 17,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 5,
+    "j": 18,
+    "target": 5,
+    "first": 5,
+    "answer": 1,
+    "correct": 1
+   },
+   {
+    "i": 5,
+    "j": 18,
+    "target": 5,
+    "first": 18,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 5,
+    "j": 18,
+    "target": 18,
+    "first": 5,
+    "answer": 2,
+    "correct": 1
+   },
+   {
+    "i": 5,
+    "j": 18,
+    "target": 18,
+    "first": 18,
+    "answer": 1,
+    "correct": 1
+   }
+  ],
+  "quality": [
+   7,
+   7,
+   7,
+   7,
+   7,
+   6,
+   7,
+   null,
+   7,
+   7,
+   7,
+   6,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   6,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   6,
+   6,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   6,
+   6,
+   6,
+   7,
+   6,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   8,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   6,
+   7,
+   6,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   6,
+   7,
+   7,
+   7,
+   7,
+   6,
+   7,
+   7,
+   7,
+   7,
+   7,
+   6,
+   7,
+   7,
+   7,
+   7,
+   7,
+   6,
+   7,
+   8,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   null,
+   7,
+   6,
+   6,
+   7,
+   6,
+   7
+  ]
+ }
+}

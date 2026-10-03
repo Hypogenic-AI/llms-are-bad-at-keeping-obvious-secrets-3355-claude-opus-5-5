@@ -1,0 +1,18 @@
+\begin{table}[h]
+    \centering
+    \caption{{\bf \mone: the secret is decodable from residuals at story tokens of identical text.} 15-way cross-fitted decoding accuracy of the secret from 32-token windows (chance 6.7\%).}
+    \label{tab:m1}
+    \small
+    \begin{tabular}{@{}lccc@{}}
+        \toprule
+        \textbf{Layer} & \textbf{First 32 tokens} & \textbf{Mean over story} & \textbf{Worst window} \\
+        \midrule
+        8 & 0.89 & 0.66 & 0.46 \\
+        16 & 0.69 & 0.60 & 0.49 \\
+        24 & 0.73 & 0.67 & 0.56 \\
+        32 & {\bf 1.00} & 0.98 & 0.95 \\
+        40 & {\bf 1.00} & 0.96 & 0.92 \\
+        47 & {\bf 1.00} & {\bf 0.99} & {\bf 0.98} \\
+        \bottomrule
+    \end{tabular}
+\end{table}

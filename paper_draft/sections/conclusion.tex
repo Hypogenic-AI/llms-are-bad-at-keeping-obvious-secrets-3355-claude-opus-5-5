@@ -1,0 +1,4 @@
+\section{Conclusion}
+\label{sec:conclusion}
+
+We asked whether LLMs leak held secrets because planning and prose are entangled. A secret-free outline brings leakage from 90.0\% to chance (52.4\%), for secret words and plot twists and for two model sizes, while length-matched irrelevant text has no effect. An outline written by the secret holder carries the leak with it. Inside the model, the secret is represented at every story position while the literal word is suppressed; an outline shrinks this representation, and ablating it or blocking attention to it removes much of the leak. To keep a secret out of generated text, separate the planner from the secret. Future work should test frontier writers and plan granularities, find cleaner secret features for quality-preserving ablations, locate the attention heads that carry the secret into the story~\citep{mann2025whitebear}, and evaluate planner--secret separation as a defense for system-prompt confidentiality.

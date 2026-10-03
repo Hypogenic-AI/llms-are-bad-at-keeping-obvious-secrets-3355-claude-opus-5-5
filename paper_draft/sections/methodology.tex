@@ -1,0 +1,61 @@
+\section{Method}
+\label{sec:method}
+
+Our main question is whether a writer that conditions on an explicit plan leaks less of a held secret, and whether the secret's internal representation explains the leak. We first describe the behavioral experiments (\eone for secret words, \etwo for plot twists) and the leakage measure, then the mechanism experiments (\mone--\mthree).
+
+\subsection{Models}
+\para{Writer.} We use \texttt{google/gemma-3-12b-it}~\citep{gemma2025gemma3} in bf16 on one RTX A6000 (48\,GB), with Gemma's default sampling (temperature 1.0, top-$p$ 0.95, top-$k$ 64) and at most 900 new tokens. We choose \gemma because it is the smallest open model reported to leak strongly (83\%), while models of 8B parameters or fewer show no leakage~\citep{holtzman2026secret}. For replication we use \texttt{google/gemma-3-27b-it} through OpenRouter (same sampling, up to 1{,}500 tokens).
+
+\para{Reader.} \judge (\texttt{anthropic/claude-sonnet-5.5}) serves as the judge at temperature 0. Claude-family readers extracted the most signal in prior work~\citep{holtzman2026secret}. \opus generated the plot-twist stimuli once, at temperature 0.7.
+
+\subsection{Stimuli and conditions}
+\input{tables/conditions}
+
+\para{Secret words (\eone).} We use the 15 secret words of \citet{holtzman2026secret} (\eg \emph{umbrella}, \emph{bracket}, \emph{Tuesday}, \emph{invoice}), with their verbatim writer and judge prompts. \Tabref{tab:conditions} lists the conditions. Each condition has 120 stories, 8 per word.
+
+\para{Outlines.} \gemma writes outlines in a separate, secret-free call (``You are a creative writer''). Each outline has a premise line, characters, setting, and a plan for 8 paragraphs. Without guidance, Gemma writes almost the same lighthouse-keeper story every time: 156 of 192 unseeded outlines contained a secret word, mostly \emph{lighthouse}. We therefore seed each outline with one of 76 varied settings. We drop every outline that contains any secret word, keeping 60 (mean 492 tokens). Each outline is paired with two different secrets, so every word gets 8 outlines.
+
+\para{Controls for added context.} An outline adds text \emph{and} fixes content. To separate the two, the \irrel condition adds an encyclopedia-style passage on a mundane topic (\eg postal sorting, concrete curing), written by Gemma and truncated to the token length of the matched outline (mean 477 tokens). The \premise condition gives only the outline's one-line premise, which fixes some content with very little added text.
+
+\para{Self-written plans.} In \selfplan, the secret holder writes its own outline and then the story. In \selfplanrm, a fresh call with no secret receives that outline and writes the story. If this writer still leaks, the plan itself carries the leak.
+
+\para{Plot twists (\etwo).} \opus generated 30 story premises, each with 4 mutually exclusive and comparably plausible twists. \gemma writes chapter 1 of a two-chapter story under the five conditions in \tabref{tab:conditions}. For the outline condition, Gemma writes one twist-free chapter-1 outline per premise from the premise alone. All 4 twists of a premise share this outline, so content is matched across twists. Each condition has 120 openings (30 premises $\times$ 4 twists).
+
+\subsection{Measuring leakage}
+\para{Length equalization.} Outline-following stories are longer (about 695 vs.\ 520 words) and often hit the token cap. To avoid ``more text, more evidence,'' we cut every text to its first 400 words, at a sentence boundary, before judging.
+
+\para{\twoafc discrimination (primary).} Following \citet{holtzman2026secret}, the judge sees two texts and is told ``One of these two texts was written by an AI whose secret word was `X'. The other had a different secret word\dots Answer with ONLY the number 1 or 2.'' For each of the 105 word pairs we draw one random story pair and run both words as target in both orders, giving 420 trials per condition. Because secrets are randomly assigned to samples and stimuli, accuracy is exactly 50\% under the null. Running both orders cancels position bias. For \etwo we use the same design within a premise: 6 twist pairs $\times$ 2 targets $\times$ 2 orders $\times$ 30 premises gives 720 trials. In the \emph{content-matched} variant for plan conditions, both stories followed the same stimulus (240 trials).
+
+\para{Secondary measures.} The judge also ranks all 15 words (in shuffled order) by how likely each was the secret of a single story. We report the mean rank of the true word (chance 8) and top-1 accuracy. For \etwo, the judge picks the planned twist out of 4 (chance 25\%). The same judge rates writing quality and coherence from 1 to 10.
+
+\para{Judge abstentions.} When the judge abstained or returned no answer, we retried with a forced-choice suffix and then with low reasoning effort; all \eone, \etwo, and \mthree trials parsed. In the 27B replication, remaining abstentions are scored 0.5.
+
+\para{Statistics.} We test accuracy against 50\% with a two-sided exact binomial test. Each story pair contributes four correlated trials, so we compute 95\% confidence intervals and condition differences with a cluster bootstrap over story pairs (10{,}000 resamples). We correct comparisons with the anchor using Benjamini--Hochberg ($q$). Mechanism analyses use Wilcoxon signed-rank tests over stories, Spearman correlations, and per-story OLS.
+
+\subsection{Mechanism experiments}
+Let $\vh_\ell(t \mid c)$ be the residual stream of \gemma at layer $\ell$ and story token $t$, when the story text is teacher-forced after context $c$. We write $c_W$ for the hide prompt with secret word $W$.
+
+\para{\mone: counterfactual teacher forcing.} We take 40 stories written with no secret and force each through the model under 31 contexts: the hide prompt with each of the 15 secret words, the hide prompt with each of 15 \emph{other} words from the COCA list~\citep{holtzman2026secret}, and the no-secret prompt. The text is identical across contexts, so any difference in activations is caused by the secret. We define a secret direction per layer as
+\begin{equation}
+    \rW^{(\ell)} = \frac{1}{N}\sum_{s=1}^{N} \Big[ \bar{\vh}_\ell(s \mid c_W) - \frac{1}{15}\sum_{W'} \bar{\vh}_\ell(s \mid c_{W'}) \Big],
+    \label{eq:direction}
+\end{equation}
+where $\bar{\vh}_\ell(s \mid c)$ is the mean residual over the tokens of story $s$. We decode the secret of held-out stories (2-fold cross-fitting) as $\argmax_W \langle \vh - \bar{\vh}, \rhatW \rangle$, both for story means and for 32-token windows. We also record the final-layer log-probability of each secret word's own token at story positions.
+
+\para{\monebee: does an outline dilute the secret?} We force the 18 complete \extplan stories under each of the 15 secrets with three contexts: (a) with the outline they followed, (b) with the plain story prompt, and (c) with the length-matched irrelevant passage. The \emph{secret footprint} is the RMS, over secrets, of the secret-induced deviation of the story-mean residual. It does not depend on any direction.
+
+\para{\mtwo: does strength predict leakage?} We force every generated \eone story with its own prompt and again with the secret sentence replaced by the no-secret prompt. The \emph{context-driven strength} is $\langle \bar{\vh}_{\text{own}} - \bar{\vh}_{\text{no-secret}}, \rhatW \rangle$ at layer 32. We correlate it with leakage, defined as $16 - \text{rank}$ of the true word.
+
+\para{\mthree: causal interventions.} We generate 120 \noplan stories under each intervention. Mean-ablation replaces the component of the residual along a unit direction $\vu$ by its average:
+\begin{equation}
+    \vx \leftarrow \vx - \big(\langle \vx, \vu \rangle - \mu_{\vu}\big)\,\vu ,
+    \label{eq:ablation}
+\end{equation}
+where $\mu_{\vu}$ is the mean projection over all secret contexts. We apply it at the inputs of layers 20--39 at every generated position. For subspaces we project out the span. Zero-ablation at all layers, as in \citet{arditi2024refusal}, made the model degenerate for \emph{any} difference-in-means direction, including control directions. We therefore chose layers 20--40 with a coherence sweep on short samples, where all directions gave fluent text. The conditions are:
+\begin{itemize}[leftmargin=*,itemsep=0pt,topsep=0pt]
+    \item the story's own secret direction $\rhatW$, and the 14-dimensional span of all secret directions;
+    \item controls built identically from COCA words used as secrets (one direction, and the 14-dimensional span), and a random direction;
+    \item the secret direction only during the first 100 generated tokens, or only after them;
+    \item attention knockout: generated tokens cannot attend to the secret sentence, at all layers;
+    \item steering for sufficiency: adding $\rW$ at layer 24 (scale 1 or 3) to generation with \emph{no} secret.
+\end{itemize}

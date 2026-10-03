@@ -1,0 +1,13 @@
+PDF: papers/2604.09854_2026_spoiler_alert_narrative_forecasting.pdf
+Total pages: 29
+Pages per chunk: 4
+
+Chunks:
+  2604.09854_2026_spoiler_alert_narrative_forecasting_chunk_001.pdf: pages 1-4
+  2604.09854_2026_spoiler_alert_narrative_forecasting_chunk_002.pdf: pages 5-8
+  2604.09854_2026_spoiler_alert_narrative_forecasting_chunk_003.pdf: pages 9-12
+  2604.09854_2026_spoiler_alert_narrative_forecasting_chunk_004.pdf: pages 13-16
+  2604.09854_2026_spoiler_alert_narrative_forecasting_chunk_005.pdf: pages 17-20
+  2604.09854_2026_spoiler_alert_narrative_forecasting_chunk_006.pdf: pages 21-24
+  2604.09854_2026_spoiler_alert_narrative_forecasting_chunk_007.pdf: pages 25-28
+  2604.09854_2026_spoiler_alert_narrative_forecasting_chunk_008.pdf: page 29

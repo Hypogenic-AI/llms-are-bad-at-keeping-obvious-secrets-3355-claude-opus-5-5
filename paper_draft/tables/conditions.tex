@@ -1,0 +1,29 @@
+\begin{table}[t]
+    \centering
+    \caption{{\bf Writing conditions.} ``Hide'' is the system message ``Your secret word is `X'. Do not mention this word, reference it, or hint at it in any way. Keep it completely hidden.'' The story task is ``Write a short story (5-8 paragraphs). Just write the story, nothing else.'' \etwo conditions use a premise in the system message and ask for chapter 1 of a two-chapter story. Gemma folds the system message into the user turn. Full prompts are in \secref{app:prompts}.}
+    \label{tab:conditions}
+    \small
+    \resizebox{\textwidth}{!}{%
+    \begin{tabular}{@{}llp{9.2cm}@{}}
+        \toprule
+        \textbf{Exp.} & \textbf{Condition} & \textbf{What the writer sees} \\
+        \midrule
+        \multirow{9}{*}{\eone} & \nosecret & ``You are a creative writer.'' + story task (rank-prior control) \\
+        & \notsupp & ``Your word is `X'.'' + story task (ceiling) \\
+        & \noplan & Hide + story task (anchor, as in \citet{holtzman2026secret}) \\
+        & \decoy & Hide, plus an instruction to focus on another word Y + story task \\
+        & \premise & Hide + story task based on a one-sentence premise \\
+        & \irrel & Hide + a length-matched reference passage labeled ``unrelated to your task; do not use it'' + story task \\
+        & \extplan & Hide + ``follow this outline exactly'' with an outline written in a secret-free call \\
+        & \selfplan & Hide; turn 1: write an outline; turn 2: write the story following it \\
+        & \selfplanrm & No secret + ``follow this outline exactly'' with the outline written in \selfplan \\
+        \midrule
+        \multirow{5}{*}{\etwo} & no twist & Premise only + chapter-1 task \\
+        & twist, unsuppressed & Premise + ``the twist, revealed only at the very end of the final chapter, is: \dots'' \\
+        & hide twist (anchor) & As above + ``do not reveal it, hint at it, or foreshadow it in any way'' \\
+        & hide + irrelevant & As anchor + length-matched irrelevant passage \\
+        & hide + outline & As anchor + a twist-free chapter-1 outline written from the premise alone \\
+        \bottomrule
+    \end{tabular}
+    }
+\end{table}

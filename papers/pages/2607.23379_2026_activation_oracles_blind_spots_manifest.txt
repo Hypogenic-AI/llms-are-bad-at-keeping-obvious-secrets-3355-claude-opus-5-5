@@ -1,0 +1,13 @@
+PDF: papers/2607.23379_2026_activation_oracles_blind_spots.pdf
+Total pages: 30
+Pages per chunk: 4
+
+Chunks:
+  2607.23379_2026_activation_oracles_blind_spots_chunk_001.pdf: pages 1-4
+  2607.23379_2026_activation_oracles_blind_spots_chunk_002.pdf: pages 5-8
+  2607.23379_2026_activation_oracles_blind_spots_chunk_003.pdf: pages 9-12
+  2607.23379_2026_activation_oracles_blind_spots_chunk_004.pdf: pages 13-16
+  2607.23379_2026_activation_oracles_blind_spots_chunk_005.pdf: pages 17-20
+  2607.23379_2026_activation_oracles_blind_spots_chunk_006.pdf: pages 21-24
+  2607.23379_2026_activation_oracles_blind_spots_chunk_007.pdf: pages 25-28
+  2607.23379_2026_activation_oracles_blind_spots_chunk_008.pdf: pages 29-30

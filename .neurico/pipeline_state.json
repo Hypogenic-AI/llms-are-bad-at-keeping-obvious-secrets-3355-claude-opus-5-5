@@ -1,0 +1,96 @@
+{
+  "created_at": "2026-10-02T18:27:35.579705Z",
+  "stages": {
+    "resource_finder": {
+      "status": "completed",
+      "started_at": "2026-10-02T18:27:35.588817Z",
+      "completed_at": "2026-10-02T19:02:10.094159Z",
+      "success": true,
+      "outputs": {
+        "literature_review": "/workspaces/llms-are-bad-at-keeping-obvious-secrets-3355-claude-opus-5-5/literature_review.md",
+        "resources_catalog": "/workspaces/llms-are-bad-at-keeping-obvious-secrets-3355-claude-opus-5-5/resources.md",
+        "papers_dir": "/workspaces/llms-are-bad-at-keeping-obvious-secrets-3355-claude-opus-5-5/papers",
+        "datasets_dir": "/workspaces/llms-are-bad-at-keeping-obvious-secrets-3355-claude-opus-5-5/datasets",
+        "code_dir": "/workspaces/llms-are-bad-at-keeping-obvious-secrets-3355-claude-opus-5-5/code"
+      },
+      "expected_outputs": [
+        "literature_review.md",
+        "resources.md"
+      ],
+      "next_steps": [
+        "Review the literature and resource catalog before running experiments."
+      ],
+      "workspace_check": {
+        "root": "/workspaces/llms-are-bad-at-keeping-obvious-secrets-3355-claude-opus-5-5",
+        "exists": true,
+        "is_directory": true,
+        "healthy": true
+      },
+      "workspace_check_at_completion": {
+        "root": "/workspaces/llms-are-bad-at-keeping-obvious-secrets-3355-claude-opus-5-5",
+        "exists": true,
+        "is_directory": true,
+        "healthy": true
+      },
+      "output_validation": {
+        "valid": true,
+        "expected": [
+          "literature_review.md",
+          "resources.md"
+        ],
+        "present": [
+          "literature_review.md",
+          "resources.md"
+        ],
+        "missing": [],
+        "outside_workspace": []
+      }
+    },
+    "experiment_runner": {
+      "status": "completed",
+      "started_at": "2026-10-02T19:02:10.135672Z",
+      "completed_at": "2026-10-03T01:44:13.615729Z",
+      "success": true,
+      "outputs": {
+        "success": true,
+        "return_code": 0,
+        "elapsed_time": 24122.96315932274,
+        "log_file": "/workspaces/llms-are-bad-at-keeping-obvious-secrets-3355-claude-opus-5-5/logs/execution_claude.log",
+        "transcript_file": "/workspaces/llms-are-bad-at-keeping-obvious-secrets-3355-claude-opus-5-5/logs/execution_claude_transcript.jsonl",
+        "background_processes_terminated": false
+      },
+      "expected_outputs": [
+        "REPORT.md"
+      ],
+      "next_steps": [
+        "Validate the report and experimental artifacts before finalizing."
+      ],
+      "workspace_check": {
+        "root": "/workspaces/llms-are-bad-at-keeping-obvious-secrets-3355-claude-opus-5-5",
+        "exists": true,
+        "is_directory": true,
+        "healthy": true
+      },
+      "workspace_check_at_completion": {
+        "root": "/workspaces/llms-are-bad-at-keeping-obvious-secrets-3355-claude-opus-5-5",
+        "exists": true,
+        "is_directory": true,
+        "healthy": true
+      },
+      "output_validation": {
+        "valid": true,
+        "expected": [
+          "REPORT.md"
+        ],
+        "present": [
+          "REPORT.md"
+        ],
+        "missing": [],
+        "outside_workspace": []
+      }
+    }
+  },
+  "current_stage": null,
+  "completed": true,
+  "completed_at": "2026-10-03T01:44:14.058876Z"
+}

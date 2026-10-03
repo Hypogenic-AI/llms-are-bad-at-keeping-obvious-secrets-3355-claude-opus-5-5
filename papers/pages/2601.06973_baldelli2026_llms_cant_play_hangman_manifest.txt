@@ -1,0 +1,14 @@
+PDF: papers/2601.06973_baldelli2026_llms_cant_play_hangman.pdf
+Total pages: 36
+Pages per chunk: 4
+
+Chunks:
+  2601.06973_baldelli2026_llms_cant_play_hangman_chunk_001.pdf: pages 1-4
+  2601.06973_baldelli2026_llms_cant_play_hangman_chunk_002.pdf: pages 5-8
+  2601.06973_baldelli2026_llms_cant_play_hangman_chunk_003.pdf: pages 9-12
+  2601.06973_baldelli2026_llms_cant_play_hangman_chunk_004.pdf: pages 13-16
+  2601.06973_baldelli2026_llms_cant_play_hangman_chunk_005.pdf: pages 17-20
+  2601.06973_baldelli2026_llms_cant_play_hangman_chunk_006.pdf: pages 21-24
+  2601.06973_baldelli2026_llms_cant_play_hangman_chunk_007.pdf: pages 25-28
+  2601.06973_baldelli2026_llms_cant_play_hangman_chunk_008.pdf: pages 29-32
+  2601.06973_baldelli2026_llms_cant_play_hangman_chunk_009.pdf: pages 33-36

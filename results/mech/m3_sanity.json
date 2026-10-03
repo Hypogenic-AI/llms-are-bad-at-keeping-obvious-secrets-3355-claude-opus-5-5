@@ -1,0 +1,98 @@
+{
+ "(24, 40)_abl_secret": {
+  "distinct": 0.6974432252533832,
+  "samples": [
+   "The rain began subtly, a whisper against the slate of the crumbling stone walls. Elias hadn't noticed it at first, too engrossed in the dreary task of cataloging Mrs. Hawthorne's collection of porcelain dolls. Each one seemed to stare at him with unnerving stillness, their painted eyes reflecting the gloom of the room. He\u2019d agreed to the job out of desperation, the last few years proving increasin",
+   "The salt spray stung Elara\u2019s face as she tightened her grip on the railing. The wind, a constant, insistent presence on the island, tugged at her oilskins, threatening to rip them away. Below, the waves crashed against the jagged rocks with a rhythmic ferocity that had defined her life. She'd been coming to this place since she was a child, accompanying her father on his rounds, learning the langu",
+   "The old workshop smelled of sawdust and linseed oil, a comforting aroma Elias had known his entire life. Sunlight streamed through the dusty windows, illuminating motes dancing in the air above his workbench. He ran a calloused thumb over the smooth, dark wood, the grain swirling like a miniature landscape. This project was different. Previous commissions had been sturdy, functional things \u2013 table"
+  ]
+ },
+ "(24, 40)_abl_other": {
+  "distinct": 0.6838204795158498,
+  "samples": [
+   "The rain began subtly, a mere suggestion of moisture in the air. Old Man Fitzwilland, perched on the edge of his porch, didn't notice at first. He was too engrossed in observing the slow decline of a hobby he\u2019d cherished for decades \u2013 collecting intricate clockwork automatons. Each one, a tiny marvel of brass and gears, represented a frozen moment, a silent performance that used to captivate him f",
+   "The salt spray stung Elias\u2019s face as he braced himself against the railing of the ferry. The wind, a constant companion on this stretch of the coast, whipped his coat around him, a restless, grey ghost. He\u2019d come seeking solitude, a reprieve from the city's relentless hum, and the promise of the island seemed to offer just that. A small, unassuming landmass, barely a blip on any map, it held a his",
+   "The old house breathed a sigh of recognition as Elara stepped onto its porch. It hadn't seen a visitor in decades, not a soul really, just the relentless creep of ivy and the patient persistence of the seasons. The porch sagged under the weight of neglect, the paint peeled like sunburnt skin, and the windows stared out with a quiet, melancholic gaze. She'd inherited it from a great-aunt she barely"
+  ]
+ },
+ "(24, 40)_abl_random": {
+  "distinct": 0.7009517385854385,
+  "samples": [
+   "The rain began subtly, a mere suggestion of moisture in the humid air. Elias barely noticed it at first, too engrossed in the worn pages of his book. He sat on the wrought-iron bench in the park, a familiar haven amidst the bustling city. The late afternoon sun, struggling to break through the gray, cast long, melancholic shadows across the damp grass. He\u2019d come here seeking solitude, a refuge fro",
+   "The salt spray stung Elara\u2019s face as she clung to the railing, the wind a constant, insistent presence. Below, the waves crashed against the jagged rocks, a rhythmic, relentless percussion. She\u2019d come to this remote point, jutting out into the churning expanse of the ocean, seeking solace. The world felt heavy, a burden she carried with a weariness that settled deep in her bones. Every conversatio",
+   "The attic air hung thick and heavy, a blanket woven from dust and forgotten memories. Elias coughed, waving a hand in front of his face as he navigated the maze of discarded furniture and moth-eaten textiles. He was searching for something, though he wasn\u2019t entirely sure what. His grandmother, Elara, had passed away a month ago, leaving behind a house crammed with decades of accumulated belongings"
+  ]
+ },
+ "(32, 44)_abl_secret": {
+  "distinct": 0.7074285116558608,
+  "samples": [
+   "The rain began subtly, a whisper against the windowpanes. Elias barely noticed it at first, preoccupied with the dampening effect the grey sky was having on his mood. He'd been looking forward to sketching the old clock tower, its gothic spire a familiar comfort against the backdrop of the city. Now, the light was muted, stealing the details from the stone. He sighed, considering heading back to h",
+   "The salt spray stung Elias\u2019s face as he braced against the wind, tightening the oilskins around him. It had been a relentless storm for three days, battering the coastline with a fury he hadn't witnessed in his twenty years tending the westernmost point. The waves crashed against the rocks with a deafening roar, each impact sending tremors through the stone structure he called home. He checked the",
+   "The attic air hung thick and heavy, a blanket woven from dust and forgotten memories. Elias coughed, waving a hand in front of his face as he navigated the labyrinth of discarded furniture and moth-eaten textiles. He was searching for something, though he wasn\u2019t entirely sure what. His grandmother, Elara, had passed away a month ago, leaving behind a house crammed with decades of accumulated belon"
+  ]
+ },
+ "(32, 44)_abl_other": {
+  "distinct": 0.7021947530966849,
+  "samples": [
+   "The rain began subtly, a mere suggestion of moisture in the humid air. Elias barely noticed it at first, too engrossed in the worn pages of his book. He sat on the park bench, a regular fixture amongst the rustling leaves and disapproving squirrels, content in his solitary world. He\u2019d been coming to this spot for years, always at the same time, always with the same book, always seeking the quiet s",
+   "The salt spray stung Elias\u2019s face as he braced against the wind, the familiar chill a comfort after years of the mainland\u2019s stifling humidity. He adjusted his oilskins, the thick fabric smelling of brine and decades of hard work. His grandfather had worn the same ones, and his father before him. It was a lineage built on vigilance, on tending to the sentinel that guarded the jagged coastline. The ",
+   "The old house stood on a rise overlooking the town, its grey stone weathered by decades of harsh winters and relentless sun. Locals whispered stories about it \u2013 tales of a reclusive musician who'd lived there, a man who'd dedicated his life to a singular, beautiful pursuit. Now, only dust and silence resided within. I'd inherited it from a distant aunt I\u2019d barely known, and my task was simple: cle"
+  ]
+ },
+ "(32, 44)_abl_random": {
+  "distinct": 0.7042770010615789,
+  "samples": [
+   "The rain began subtly, a mere suggestion of moisture in the humid air. Elias barely noticed it at first, preoccupied with the hurried steps of the crowd surging along Market Street. He was late, as usual, for his weekly meeting with Mrs. Hawthorne, a woman who seemed to collect forgotten stories like others collected stamps. He always felt a strange sense of calm in her presence, a stillness that ",
+   "The salt spray stung Elara\u2019s face as she clung to the railing, the wind a constant, insistent presence. Below, the waves crashed against the rocks with a rhythmic ferocity, their white foam momentarily illuminating the weathered stone of the structure before being swallowed by the churning water. She\u2019d been coming here since she was a child, her grandfather always bringing her, a sturdy hand gripp",
+   "The attic air hung thick and dusty, smelling of cedar and forgotten summers. Sunlight sliced through cracks in the boarded-up windows, illuminating swirling motes of dust that danced like tiny spirits. Elias, reluctantly tasked with clearing out his grandmother\u2019s belongings, coughed, pulling his scarf higher over his nose. He'd anticipated moth-eaten clothes and chipped porcelain dolls, but hadn\u2019t"
+  ]
+ },
+ "(20, 32)_abl_secret": {
+  "distinct": 0.6764701301563754,
+  "samples": [
+   "The rain started subtly, a whisper against the cobblestones, unnoticed at first amidst the bustling marketplace. People hurried, their pace quickening, their shoulders angled away from one another, focused on reaching their destinations. Old Man Tiberius, a leather merchant, watched them pass with a rueful smile. He\u2019d seen countless seasons unfold from his stall, seen the ebb and flow of life play",
+   "The rain had stopped. Not entirely, of course. The persistent drizzle clung to everything, a damp film coating the windowpanes and slicking the cobblestones. But it wasn't actively falling, and the wind, while still present, had mostly subsided to a gentle sigh. I pulled my jacket tighter, the salt air heavy and cold. This was the kind of day that demanded contemplation, a quiet observation of the",
+   "The antique shop window displayed a collection of faded photographs and chipped porcelain dolls. Dust motes danced in the shafts of sunlight slicing through the gloom, illuminating a small, meticulously crafted instrument nestled amongst the other relics. Its wood gleamed a warm, reddish-brown, hinting at years spent absorbing the quiet resonance of countless melodies. It rested within a velvet-li"
+  ]
+ },
+ "(20, 32)_abl_other": {
+  "distinct": 0.6661826085388244,
+  "samples": [
+   "The wind intensified. Rain with it, and the kind of rhythm that feels like a happy secret. Rain that whispers of distant places, and the promise of cozy comfort. We were huddled in the doorway, waiting for the next wave of cozy.\n\nThe rain, and the rain's friend, a nearby coffee shop. Soon, we\u2019ll head inside, where the warmth of conversation is enough to fill our shared space. \n\nThe change we\u2019ll ta",
+   "The salt spray stung Elias\u2019s face as he braced himself against the railing of the small fishing boat. The rhythmic chug of the engine was a constant hum, a familiar soundtrack to his life. He\u2019d been out on the water since before he could walk, following in the footsteps of his father, and his father before him. It was a life tied inextricably to the sea, a life that felt as solid and dependable as",
+   "The old music shop, \"Harmony & Resonance,\" smelled like aged wood and simmering possibilities. Dust motes danced in the shafts of sunlight slicing through the window, illuminating rows of instruments waiting for a touch. Elias, the proprietor, watched silently as a young woman approached, a flicker of nervous hope in her eyes. He knew the feeling \u2013 the silent plea for something magical.\n\nShe'd com"
+  ]
+ },
+ "(20, 32)_abl_random": {
+  "distinct": 0.7068549535975394,
+  "samples": [
+   "The rain began subtly, a mere suggestion of moisture in the humid air. Elias barely noticed it at first, too engrossed in the worn pages of his book. He sat on the wrought-iron bench in the park, a familiar ritual on Tuesday afternoons. The elderly oak above him offered little shelter, and the gray sky seemed to be perpetually lowering, pregnant with a downpour. He'd hoped for sunshine today; the ",
+   "The salt spray stung Elara\u2019s face as she clung to the railing of the small ferry. The grey expanse of the ocean stretched before her, a churning canvas of slate and white. It had been years since she\u2019d last visited the island, a place stubbornly resisting the march of time. Her grandmother, Maeve, had lived there her entire life, a solitary figure against the backdrop of relentless weather and the",
+   "The attic air hung thick and heavy, a blanket woven from dust and forgotten memories. Elias coughed, waving a hand in front of his face as he navigated the maze of discarded furniture and moth-eaten textiles. He was searching for something, though he wasn\u2019t entirely sure what. His grandmother, Elara, had passed away a month ago, leaving behind a house crammed with decades of accumulated belongings"
+  ]
+ },
+ "(36, 48)_abl_secret": {
+  "distinct": 0.7054696637886144,
+  "samples": [
+   "The late afternoon light bled through the windowpanes, a bruised purple against the fading gold. Rain began, a tentative sprinkle at first, then a determined downpour. Elias watched it from his armchair, a steaming mug warming his hands. He wasn\u2019t expecting visitors, not on a day like this, but the insistent chime of the doorbell startled him. Hesitantly, he rose and shuffled to the door, peering ",
+   "The salt spray stung Elias\u2019s face as he braced against the wind, the familiar chill a comforting presence. He\u2019d been tending this stretch of coastline for fifty years, a solitary figure against the relentless rhythm of the ocean. His small cottage, perched precariously on the cliff edge, was more than just a dwelling; it was a sanctuary, a silent witness to countless storms and serene dawns. He kn",
+   "The old house stood on a rise overlooking the town, perpetually shrouded in a mist that clung to its weathered grey stones. Locals whispered stories about it \u2013 tales of a reclusive artist who'd lived there decades ago, a man obsessed with capturing fleeting moments of beauty. He\u2019d disappeared without a trace, leaving behind only the house and a collection of unfinished canvases stacked high in his"
+  ]
+ },
+ "(36, 48)_abl_other": {
+  "distinct": 0.6997019805239828,
+  "samples": [
+   "The rain began subtly, a mere mist clinging to the cobblestones of the marketplace. Old Man Fitzwilliam, perched on his usual stool near the fountain, barely noticed. He'd seen countless storms lash through Oakhaven in his eighty-odd years, felt the dampness settle deep in his bones, and judged them all the same \u2013 inconvenient, but ultimately fleeting. He was more concerned with the wilting tulips",
+   "The salt spray stung Elias\u2019s face as he braced against the wind, the familiar chill a welcome sensation after the oppressive heat of the city. He'd come back, after all these years, drawn by an almost irresistible pull. The village, Havenwood, hadn\u2019t changed much. The same cluster of cottages clung to the cliff edge, their slate roofs weathered grey. The same gulls wheeled and cried overhead, thei",
+   "The old house stood on a rise overlooking the town, its grey stone weathered by decades of wind and rain. Locals whispered stories about it \u2013 tales of a reclusive artist, a lost fortune, and a sorrow so profound it permeated the very walls. No one had lived there for years, not since the last occupant, Elias Thorne, had disappeared without a trace. Clara, a young historian with a penchant for unco"
+  ]
+ },
+ "(36, 48)_abl_random": {
+  "distinct": 0.7030978591010021,
+  "samples": [
+   "The rain began subtly, a mere suggestion of moisture on the cobblestones. Elias barely noticed, engrossed as he was in arranging the antique maps in the window of his shop. Each fold and tear held a story, a forgotten journey traced in faded ink. He preferred days like this, quiet and contemplative, surrounded by the ghosts of explorers and cartographers. The rhythmic ticking of the grandfather cl",
+   "The salt spray stung Elias\u2019s face as he braced against the wind, the familiar chill a comforting presence. He\u2019d been tending the beacon for thirty years, a solitary rhythm marking the passage of time. Each evening, he\u2019d climb the winding staircase, the stone cold beneath his calloused hands, and ignite the lamp. The rotating beam, a steady pulse against the encroaching darkness, was his responsibi",
+   "The attic air hung thick and heavy, a drowsy blend of dust and dried lavender. Sunlight, fractured by the grimy windowpanes, painted shifting patterns on the floorboards. Elias, reluctantly drawn upstairs by his grandmother's insistent summons, coughed, waving a hand in front of his face. He'd much rather be outside, kicking a football with the neighborhood kids, but Nana Elsie had a way of making"
+  ]
+ }
+}

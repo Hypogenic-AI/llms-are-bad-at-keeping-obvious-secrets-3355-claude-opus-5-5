@@ -1,0 +1,431 @@
+{
+  "success": true,
+  "total": 47,
+  "papers": [
+    {
+      "title": "StoryVerse: Towards Co-authoring Dynamic Plot with LLM-based Character Simulation via Narrative Planning",
+      "year": 2024,
+      "authors": "Yi Wang, Qian Zhou, David Ledo",
+      "url": "https://www.semanticscholar.org/paper/0a10279aef5d81c7d248d9153ff6dc0f353a7e82",
+      "relevance": 3,
+      "abstract": "Automated plot generation for games enhances the player\u2019s experience by providing rich and immersive narrative experience. Recent advancements use Large Language Models (LLMs) to drive the behavior of virtual characters, allowing plots to emerge from interactions between characters and their environments. However, the emergent nature of such decentralized plot generation makes it difficult for authors to direct plot progression. We propose a novel plot creation workflow that mediates between a writer\u2019s authorial intent and the emergent behaviors from LLM-driven character simulations, through a novel authorial structure called \u201cabstract acts\u201d. Writers create high-level plot outlines which are transformed into character actions via an LLM-based narrative planning process, based on the game world state. This results in narratives co-created by the author, the simulated characters, and the player. We present StoryVerse as a proof-of-concept system to demonstrate the workflow, and showcase its versatility across various stories and game environments.",
+      "citations": 50
+    },
+    {
+      "title": "Creating Suspenseful Stories: Iterative Planning with Large Language Models",
+      "year": 2024,
+      "authors": "Kaige Xie, Mark Riedl",
+      "url": "https://www.semanticscholar.org/paper/ea6b0b5904d6e8eccbccb609ac35911ae967cd2c",
+      "relevance": 3,
+      "abstract": "Automated story generation has been one of the long-standing challenges in NLP. Among all dimensions of stories, *suspense* is very common in human-written stories but relatively under-explored in AI-generated stories. While recent advances in large language models (LLMs) have greatly promoted language generation in general, state-of-the-art LLMs are still unreliable when it comes to suspenseful story generation. We propose a novel iterative-prompting-based planning method that is grounded in two theoretical foundations of story suspense from cognitive psychology and narratology. This theory-grounded method works in a fully zero-shot manner and does not rely on any supervised story corpora. To the best of our knowledge, this paper is the first attempt at suspenseful story generation with LLMs. Extensive human evaluations of the generated suspenseful stories demonstrate the effectiveness of our method.",
+      "citations": 28
+    },
+    {
+      "title": "WhatELSE: Shaping Narrative Spaces at Configurable Level of Abstraction for AI-bridged Interactive Storytelling",
+      "year": 2025,
+      "authors": "Zhuo-Ran Lu, Qian Zhou, Yi Wang",
+      "url": "https://www.semanticscholar.org/paper/17585e0194ed65697e71f540134a156775c40db4",
+      "relevance": 2,
+      "abstract": "Generative AI significantly enhances player agency in interactive narratives (IN) by enabling just-in-time content generation that adapts to player actions. While delegating generation to AI makes IN more interactive, it becomes challenging for authors to control the space of possible narratives - within which the final story experienced by the player emerges from their interaction with AI. In this paper, we present WhatELSE, an AI-bridged IN authoring system that creates narrative possibility spaces from example stories. WhatELSE provides three views (narrative pivot, outline, and variants) to help authors understand the narrative space and corresponding tools leveraging linguistic abstraction to control the boundaries of the narrative space. Taking innovative LLM-based narrative planning approaches, WhatELSE further unfolds the narrative space into executable game events. Through a user study (N=12) and technical evaluations, we found that WhatELSE enables authors to perceive and edit the narrative space and generates engaging interactive narratives at play-time.",
+      "citations": 25
+    },
+    {
+      "title": "AI as an Active Writer: Interaction Strategies with Generated Text in Human-AI Collaborative Fiction Writing 56-65",
+      "year": 2022,
+      "authors": "Daijin Yang, Yanpeng Zhou, Zhiyuan Zhang, Toby Jia-Jun Li, LC Ray",
+      "url": "https://www.semanticscholar.org/paper/15ddeb7765e2a3ea692a27d9b30e8f9446d74742",
+      "relevance": 2,
+      "abstract": "",
+      "citations": 71
+    },
+    {
+      "title": "Text Generation: A Systematic Literature Review of Tasks, Evaluation, and Challenges",
+      "year": 2024,
+      "authors": "Jonas Becker, Jan Philip Wahle, Bela Gipp, T. Ruas",
+      "url": "https://api.semanticscholar.org/CorpusId:270045573",
+      "relevance": 2,
+      "abstract": "Text generation has become more accessible than ever, and the growing interest in these systems, especially those using large language models, has spurred a surge in related publications. We provide a systematic literature review comprising 257 papers, covering the period from January 2017 to December 2025. This review categorizes text generation contributions into five main tasks: open-ended text generation, summarization, translation, paraphrasing, and question answering. For each task in our taxonomy, we review relevant characteristics and key subtasks. We assess current approaches for evaluating text generation systems, covering model-free, model-based, and human evaluation. Our investigation shows several task-specific challenges (e.g., missing datasets for multi-document summarization, lack of coherence in story generation, and difficulties in complex reasoning for question answering). We further discuss nine challenges common to all tasks and sub-tasks in recent text generation papers: bias, reasoning, hallucinations, misuse, privacy, interpretability, transparency, datasets, and computing. This systematic literature review targets two main audiences: early-career researchers in natural language processing seeking an overview of the field and promising research directions, and senior researchers who need a recent overview of the main tasks, evaluation, challenges, and mitigation strategies.",
+      "citations": 32
+    },
+    {
+      "title": "Spoiler Alert: Narrative Forecasting as a Metric for Tension in LLM Storytelling",
+      "year": 2026,
+      "authors": "Pei-Qi Sui, Yu-Tong Zhu, Tianyi Cheng, Peter West, R. So, Hoyt Long, Ari Holtzman",
+      "url": "https://api.semanticscholar.org/CorpusId:287425693",
+      "relevance": 2,
+      "abstract": "LLMs have so far failed both to generate consistently compelling stories and to recognize this failure--on the leading creative-writing benchmark (EQ-Bench), LLM judges rank zero-shot AI stories above New Yorker short stories, a gold standard for literary fiction. We argue that existing rubrics overlook a key dimension of compelling human stories: narrative tension. We introduce the 100-Endings metric, which walks through a story sentence by sentence: at each position, a model predicts how the story will end 100 times given only the text so far, and we measure tension as how often predictions fail to match the ground truth. Beyond the mismatch rate, the sentence-level curve yields complementary statistics, such as inflection rate, a geometric measure of how frequently the curve reverses direction, tracking twists and revelations. Unlike rubric-based judges, 100-Endings correctly ranks New Yorker stories far above LLM outputs. Grounded in narratological principles, we design a story-generation pipeline using structural constraints, including analysis of story templates, idea formulation, and narrative scaffolding. Our pipeline significantly increases narrative tension as measured by the 100-Endings metric, while maintaining performance on the EQ-Bench leaderboard.",
+      "citations": 1
+    },
+    {
+      "title": "TattleTale: Storytelling with Planning and Large Language Models",
+      "year": null,
+      "authors": "Nisha Ingrid Simon, Christian Muise",
+      "url": "https://www.semanticscholar.org/paper/4957e0a29298aac65b7bbf6aa344c40d14bf1bca",
+      "relevance": 2,
+      "abstract": "",
+      "citations": 16
+    },
+    {
+      "title": "Are Large Language Models Capable of Generating Human-Level Narratives?",
+      "year": 2024,
+      "authors": "Yufei Tian, Tenghao Huang, Miri Liu, Derek Jiang, Alexander Spangher, Muhao Chen, Jonathan May, Nan-Yun Peng",
+      "url": "https://www.semanticscholar.org/paper/325143c178b6c303ff74631ed8d98f2f475ccc38",
+      "relevance": 1,
+      "abstract": "As daily reliance on large language models (LLMs) grows, assessing their generation quality is crucial to understanding how they might impact on our communications. This paper investigates the capability of LLMs in storytelling, focusing on narrative development and plot progression. We introduce a novel computational framework to analyze narratives through three discourse-level aspects: i) story arcs, ii) turning points, and iii) affective dimensions, including arousal and valence. By leveraging expert and automatic annotations, we uncover significant discrepancies between the LLM- and human- written stories. While human-written stories are suspenseful, arousing, and diverse in narrative structures, LLM stories are homogeneously positive and lack tension. Next, we measure narrative reasoning skills as a precursor to generative capacities, concluding that most LLMs fall short of human abilities in discourse understanding. Finally, we show that explicit integration of aforementioned discourse features can enhance storytelling, as is demonstrated by over 40% improvement in neural storytelling in terms of diversity, suspense, and arousal. Such advances promise to facilitate greater and more natural roles LLMs in human communication.",
+      "citations": 136
+    },
+    {
+      "title": "Content Planning for Neural Story Generation with Aristotelian Rescoring",
+      "year": 2020,
+      "authors": "Seraphina Goldfarb-Tarrant, Tuhin Chakrabarty, R. Weischedel, Nanyun Peng",
+      "url": "https://www.semanticscholar.org/paper/4560660897ca2154c0a303b5802f375c905b332f",
+      "relevance": 1,
+      "abstract": "Long-form narrative text generated from large language models manages a fluent impersonation of human writing, but only at the local sentence level, and lacks structure or global cohesion. We posit that many of the problems of story generation can be addressed via high-quality content planning, and present a system that focuses on how to learn good plot structures to guide story generation. We utilize a plot-generation language model along with an ensemble of rescoring models that each implement an aspect of good story-writing as detailed in Aristotle's Poetics. We find that stories written with our more principled plot-structure are both more relevant to a given prompt and higher quality than baselines that do not content plan, or that plan in an unprincipled way.",
+      "citations": 142
+    },
+    {
+      "title": "Codified Foreshadowing-Payoff Text Generation",
+      "year": 2026,
+      "authors": "Longfei Yun, Kun Zhou, Yu-Peng Hou, Letian Peng, Jingbo Shang",
+      "url": "https://api.semanticscholar.org/CorpusId:284648534",
+      "relevance": 1,
+      "abstract": "Foreshadowing and payoff are ubiquitous narrative devices through which authors introduce commitments early in a story and resolve them through concrete, observable outcomes. However, despite advances in story generation, large language models (LLMs) frequently fail to bridge these long-range narrative dependencies, often leaving\"Chekhov's guns\"unfired even when the necessary context is present. Existing evaluations largely overlook this structural failure, focusing on surface-level coherence rather than the logical fulfillment of narrative setups. In this paper, we introduce Codified Foreshadowing-Payoff Generation (CFPG), a novel framework that reframes narrative quality through the lens of payoff realization. Recognizing that LLMs struggle to intuitively grasp the\"triggering mechanism\"of a foreshadowed event, CFPG transforms narrative continuity into a set of executable causal predicates. By mining and encoding Foreshadow-Trigger-Payoff triples from the BookSum corpus, we provide structured supervision that ensures foreshadowed commitments are not only mentioned but also temporally and logically fulfilled. Experiments demonstrate that CFPG significantly outperforms standard prompting baselines in payoff accuracy and narrative alignment. Our findings suggest that explicitly codifying narrative mechanics is essential for moving LLMs from surface-level fluency to genuine narrative competence.",
+      "citations": 0
+    },
+    {
+      "title": "Planning Beyond Text: Graph-based Reasoning for Complex Narrative Generation",
+      "year": 2026,
+      "authors": "Hanwen Gu, Chao Guo, Jun-Le Wang, Wen-Da Xie, Yi-Sheng Lv",
+      "url": "https://api.semanticscholar.org/CorpusId:287701600",
+      "relevance": 1,
+      "abstract": "While LLMs demonstrate remarkable fluency in narrative generation, existing methods struggle to maintain global narrative coherence, contextual logical consistency, and smooth character development, often producing monotonous scripts with structural fractures. To this end, we introduce PLOTTER, a framework that performs narrative planning on structural graph representations instead of the direct sequential text representations used in existing work. Specifically, PLOTTER executes the Evaluate-Plan-Revise cycle on the event graph and character graph. By diagnosing and repairing issues of the graph topology under rigorous logical constraints, the model optimizes the causality and narrative skeleton before complete context generation. Experiments demonstrate that PLOTTER significantly outperforms representative baselines across diverse narrative scenarios. These findings verify that planning narratives on structural graph representations-rather than directly on text-is crucial to enhance the long context reasoning of LLMs in complex narrative generation.",
+      "citations": 1
+    },
+    {
+      "title": "Story Generation from Visual Inputs: Techniques, Related Tasks, and Challenges",
+      "year": 2024,
+      "authors": "Daniel A. P. Oliveira, Eug\u00e9nio Ribeiro, David Martins de Matos",
+      "url": "https://api.semanticscholar.org/CorpusId:270257863",
+      "relevance": 1,
+      "abstract": "Creating engaging narratives from visual data is crucial for automated digital media consumption, assistive technologies, and interactive entertainment. This survey covers methodologies used in the generation of these narratives, focusing on their principles, strengths, and limitations. The survey also covers tasks related to automatic story generation, such as image and video captioning, and Visual Question Answering. These tasks share common challenges with Visual Story Generation (VSG) and have served as inspiration for the techniques used in the field. We analyze the main datasets and evaluation metrics, providing a critical perspective on their limitations.",
+      "citations": 9
+    },
+    {
+      "title": "Can LLMs Generate Good Stories? Insights and Challenges from a Narrative Planning Perspective",
+      "year": 2025,
+      "authors": "Yi Wang, Max Kreminski",
+      "url": "https://api.semanticscholar.org/CorpusId:279318845",
+      "relevance": 1,
+      "abstract": "Story generation has been a prominent application of Large Language Models (LLMs). However, understanding LLMs' ability to produce high-quality stories remains limited due to challenges in automatic evaluation methods and the high cost and subjectivity of manual evaluation. Computational narratology offers valuable insights into what constitutes a good story, which has been applied in the symbolic narrative planning approach to story generation. This work aims to deepen the understanding of LLMs' story generation capabilities by using them to solve narrative planning problems. We present a benchmark for evaluating LLMs on narrative planning based on literature examples, focusing on causal soundness, character intentionality, and dramatic conflict. Our experiments show that GPT-4 tier LLMs can generate causally sound stories at small scales, but planning with character intentionality and dramatic conflict remains challenging, requiring LLMs trained with reinforcement learning for complex reasoning. The results offer insights on the scale of stories that LLMs can generate while maintaining quality from different aspects. Our findings also highlight interesting problem solving behaviors and shed lights on challenges and considerations for applying LLM narrative planning in game environments.",
+      "citations": 6
+    },
+    {
+      "title": "Re3: Generating Longer Stories With Recursive Reprompting and Revision",
+      "year": 2022,
+      "authors": "Kevin Yang, Yuan-Dong Tian, Nanyun Peng, D. Klein",
+      "url": "https://www.semanticscholar.org/paper/cdecefa737544971b72c5b5ef60f9eb9772fa051",
+      "relevance": 1,
+      "abstract": "We consider the problem of automatically generating longer stories of over two thousand words. Compared to prior work on shorter stories, long-range plot coherence and relevance are more central challenges here. We propose the Recursive Reprompting and Revision framework (Re3) to address these challenges by (a) prompting a general-purpose language model to construct a structured overarching plan, and (b) generating story passages by repeatedly injecting contextual information from both the plan and current story state into a language model prompt. We then revise by (c) reranking different continuations for plot coherence and premise relevance, and finally (d) editing the best continuation for factual consistency. Compared to similar-length stories generated directly from the same base model, human evaluators judged substantially more of Re3\u2019s stories as having a coherent overarching plot (by 14% absolute increase), and relevant to the given initial premise (by 20%).",
+      "citations": 292
+    },
+    {
+      "title": "DOC: Improving Long Story Coherence With Detailed Outline Control",
+      "year": 2023,
+      "authors": "Kevin Yang, D. Klein, Nanyun Peng, Yuan-Dong Tian",
+      "url": "https://www.semanticscholar.org/paper/6e76e29188ae8f5ff86f85945d4784b8c598b01e",
+      "relevance": 1,
+      "abstract": "We propose the Detailed Outline Control (DOC) framework for improving long-range plot coherence when automatically generating several-thousand-word-long stories. DOC consists of two complementary components: a detailed outliner and a detailed controller. The detailed outliner creates a more detailed, hierarchically structured outline, shifting creative burden from the main drafting procedure to the planning stage. The detailed controller ensures the more detailed outline is still respected during generation by controlling story passages to align with outline details. In human evaluations of automatically generated stories, DOC substantially outperforms a strong Re3 baseline (Yang et al., 2022) on plot coherence (22.5% absolute gain), outline relevance (28.2%), and interestingness (20.7%). Humans also judged DOC to be much more controllable in an interactive generation setting.",
+      "citations": 152
+    },
+    {
+      "title": "PlotMachines: Outline-Conditioned Generation with Dynamic Plot State Tracking",
+      "year": 2020,
+      "authors": "Hannah Rashkin, Asli Celikyilmaz, Yejin Choi, Jianfeng Gao",
+      "url": "https://www.semanticscholar.org/paper/e7c698bdace380f7183dedbe657686f1885f615c",
+      "relevance": 1,
+      "abstract": "We propose the task of outline-conditioned story generation: given an outline as a set of phrases that describe key characters and events to appear in a story, the task is to generate a coherent narrative that is consistent with the provided outline. This task is challenging as the input only provides a rough sketch of the plot, and thus, models need to generate a story by weaving through the key points provided in the outline. This requires the model to keep track of the dynamic states of the latent plot, conditioning on the input outline while generating the full story. \nWe present PlotMachines, a neural narrative model that learns to transform an outline into a coherent story by tracking the dynamic plot states. In addition, we enrich PlotMachines with high-level discourse structure so that the model can learn different styles of writing corresponding to different parts of the narrative. Comprehensive experiments over three fiction and non-fiction datasets demonstrate that recently introduced large-scale language models, such as GPT-2 and Grover, despite their impressive generation performance, are not sufficient in generating coherent narratives for the given outline, and dynamic plot state tracking is important for composing narratives with tighter, more consistent plots.",
+      "citations": 189
+    },
+    {
+      "title": "Generating Long-form Story Using Dynamic Hierarchical Outlining with Memory-Enhancement",
+      "year": 2024,
+      "authors": "Qianyue Wang, Jin-Wu Hu, Zhengpin Li, Yufeng Wang, Daiyuan Li, Yu Hu, Mingkui Tan",
+      "url": "https://www.semanticscholar.org/paper/720a25b9c448699e2d2e0806e9653cb3f7f56e46",
+      "relevance": 1,
+      "abstract": "Long-form story generation task aims to produce coherent and sufficiently lengthy text, essential for applications such as novel writingand interactive storytelling. However, existing methods, including LLMs, rely on rigid outlines or lack macro-level planning, making it difficult to achieve both contextual consistency and coherent plot development in long-form story generation. To address this issues, we propose Dynamic Hierarchical Outlining with Memory-Enhancement long-form story generation method, named DOME, to generate the long-form story with coherent content and plot. Specifically, the Dynamic Hierarchical Outline(DHO) mechanism incorporates the novel writing theory into outline planning and fuses the plan and writing stages together, improving the coherence of the plot by ensuring the plot completeness and adapting to the uncertainty during story generation. A Memory-Enhancement Module (MEM) based on temporal knowledge graphs is introduced to store and access the generated content, reducing contextual conflicts and improving story coherence. Finally, we propose a Temporal Conflict Analyzer leveraging temporal knowledge graphs to automatically evaluate the contextual consistency of long-form story. Experiments demonstrate that DOME significantly improves the fluency, coherence, and overall quality of generated long stories compared to state-of-the-art methods.",
+      "citations": 46
+    },
+    {
+      "title": "Strategies for Structuring Story Generation",
+      "year": 2019,
+      "authors": "Angela Fan, M. Lewis, Yann Dauphin",
+      "url": "https://www.semanticscholar.org/paper/2d6c0f7774d9d30d4972f5dba1d6e5389b3ddd2f",
+      "relevance": 1,
+      "abstract": "Writers often rely on plans or sketches to write long stories, but most current language models generate word by word from left to right. We explore coarse-to-fine models for creating narrative texts of several hundred words, and introduce new models which decompose stories by abstracting over actions and entities. The model first generates the predicate-argument structure of the text, where different mentions of the same entity are marked with placeholder tokens. It then generates a surface realization of the predicate-argument structure, and finally replaces the entity placeholders with context-sensitive names and references. Human judges prefer the stories from our models to a wide range of previous approaches to hierarchical text generation. Extensive analysis shows that our methods can help improve the diversity and coherence of events and entities in generated stories.",
+      "citations": 230
+    },
+    {
+      "title": "A Survey on LLMs for Story Generation",
+      "year": 2025,
+      "authors": "Maria Teleki, Vedangi Bengali, Xiangjue Dong, Sai Janjur, Haoran Liu, Tian Liu, Cong Wang, Ting-Yiu Liu, Yin Zhang, Frank Shipman, James Caverlee",
+      "url": "https://www.semanticscholar.org/paper/283a9a4fd7a5f1c4c105cf504d0fd999e2942e2c",
+      "relevance": 1,
+      "abstract": "Methods for story generation with Large Language Models (LLMs) have come into the spot-light recently. We create a novel taxonomy of LLMs for story generation consisting of two major paradigms: (i) independent story generation by an LLM, and (ii) author-assistance for story generation \u2013 a collaborative approach with LLMs supporting human authors. We compare existing works based on their methodology, datasets, generated story types, evaluation methods, and LLM usage. With a comprehensive survey, we identify potential directions for future work.",
+      "citations": 27
+    },
+    {
+      "title": "Towards Controllable Story Generation",
+      "year": 2018,
+      "authors": "Nanyun Peng, Marjan Ghazvininejad, Jonathan May, Kevin Knight",
+      "url": "https://www.semanticscholar.org/paper/f9de0d4a5adefc59bfb033f162d8a4a5212882cf",
+      "relevance": 1,
+      "abstract": "We present a general framework of analyzing existing story corpora to generate controllable and creative new stories. The proposed framework needs little manual annotation to achieve controllable story generation. It creates a new interface for humans to interact with computers to generate personalized stories. We apply the framework to build recurrent neural network (RNN)-based generation models to control story ending valence and storyline. Experiments show that our methods successfully achieve the control and enhance the coherence of stories through introducing storylines. with additional control factors, the generation model gets lower perplexity, and yields more coherent stories that are faithful to the control factors according to human evaluation.",
+      "citations": 147
+    },
+    {
+      "title": "ReelFramer: Human-AI Co-Creation for News-to-Video Translation",
+      "year": 2023,
+      "authors": "Sitong Wang, Samia Menon, Tao Long, Keren Henderson, Dingzeyu Li, Kevin Crowston, Mark Hansen, Jeffrey V. Nickerson, Lydia B. Chilton",
+      "url": "https://api.semanticscholar.org/CorpusId:264128392",
+      "relevance": 1,
+      "abstract": "Short videos on social media are the dominant way young people consume content. News outlets aim to reach audiences through news reels\u2014short videos conveying news\u2014but struggle to translate traditional journalistic formats into short, entertaining videos. To translate news into social media reels, we support journalists in reframing the narrative. In literature, narrative framing is a high-level structure that shapes the overall presentation of a story. We identified three narrative framings for reels that adapt social media norms but preserve news value, each with a different balance of information and entertainment. We introduce ReelFramer, a human-AI co-creative system that helps journalists translate print articles into scripts and storyboards. ReelFramer supports exploring multiple narrative framings to find one appropriate to the story. AI suggests foundational narrative details, including characters, plot, setting, and key information. ReelFramer also supports visual framing; AI suggests character and visual detail designs before generating a full storyboard. Our studies show that narrative framing introduces the necessary diversity to translate various articles into reels, and establishing foundational details helps generate scripts that are more relevant and coherent. We also discuss the benefits of using narrative framing and foundational details in content retargeting.",
+      "citations": 65
+    },
+    {
+      "title": "Guiding and Diversifying LLM-Based Story Generation via Answer Set Programming",
+      "year": 2024,
+      "authors": "Phoebe J. Wang, Max Kreminski",
+      "url": "https://api.semanticscholar.org/CorpusId:270214210",
+      "relevance": 1,
+      "abstract": "Instruction-tuned large language models (LLMs) are capable of generating stories in response to open-ended user requests, but the resulting stories tend to be limited in their diversity. Older, symbolic approaches to story generation (such as planning) can generate substantially more diverse plot outlines, but are limited to producing stories that recombine a fixed set of hand-engineered character action templates. Can we combine the strengths of these approaches while mitigating their weaknesses? We propose to do so by using a higher-level and more abstract symbolic specification of high-level story structure -- implemented via answer set programming (ASP) -- to guide and diversify LLM-based story generation. Via semantic similarity analysis, we demonstrate that our approach produces more diverse stories than an unguided LLM, and via code excerpts, we demonstrate the improved compactness and flexibility of ASP-based outline generation over full-fledged narrative planning.",
+      "citations": 13
+    },
+    {
+      "title": "LOT: A Story-Centric Benchmark for Evaluating Chinese Long Text Understanding and Generation",
+      "year": 2021,
+      "authors": "Jian Guan, Zhuo-Er Feng, Yamei Chen, Ru He, Xiaoxi Mao, Chang-Jie Fan, Minlie Huang",
+      "url": "https://www.semanticscholar.org/paper/a1040e3d1aeb952b8a1d940e68f8632c34d58421",
+      "relevance": 1,
+      "abstract": "Standard multi-task benchmarks are essential for developing pretraining models that can generalize to various downstream tasks. Existing benchmarks for natural language processing (NLP) usually focus only on understanding or generating short texts. However, long text modeling requires many distinct abilities in contrast to short texts, such as the modeling of long-range discourse and commonsense relations, and the coherence and controllability of generation. The lack of standardized benchmarks makes it difficult to assess these abilities of a model and fairly compare different models, especially Chinese models. Therefore, we propose a story-centric benchmark named LOT for evaluating Chinese long text modeling, which aggregates two understanding tasks and two generation tasks. We construct new datasets for these tasks based on human-written Chinese stories with hundreds of words. Furthermore, we release an encoder-decoder-based Chinese long text pretraining model named LongLM with up to 1 billion parameters. We pretrain LongLM on 120G Chinese novels with two generative tasks including text infilling and conditional continuation. Extensive experiments show that LongLM outperforms similar-sized pretraining models substantially on both the understanding and generation tasks in LOT.",
+      "citations": 40
+    },
+    {
+      "title": "Text-to-Text Automatic Story Generation: A Survey",
+      "year": 2026,
+      "authors": "Yuan Ma, Hanna Suominen, Patrik Haslum, R. Susilo",
+      "url": "https://api.semanticscholar.org/CorpusId:286850573",
+      "relevance": 1,
+      "abstract": ",",
+      "citations": 3
+    },
+    {
+      "title": "EIPE-text: Evaluation-Guided Iterative Plan Extraction for Long-Form Narrative Text Generation",
+      "year": 2023,
+      "authors": "Wang You, Wenshan Wu, Yaobo Liang, Shaoguang Mao, Chenfei Wu, Maosong Cao, Yuzhe Cai, Yiduo Guo, Yan Xia, Fu-Ru Wei, Nan Duan",
+      "url": "https://www.semanticscholar.org/paper/bb2ef694e8b5a99e1f7ceb014968b4d1dc2e122a",
+      "relevance": 1,
+      "abstract": "Plan-and-Write is a common hierarchical approach in long-form narrative text generation, which first creates a plan to guide the narrative writing. Following this approach, several studies rely on simply prompting large language models for planning, which often yields suboptimal results. In this paper, we propose a new framework called Evaluation-guided Iterative Plan Extraction for long-form narrative text generation (EIPE-text), which extracts plans from the corpus of narratives and utilizes the extracted plans to construct a better planner. EIPE-text has three stages: plan extraction, learning, and inference. In the plan extraction stage, it iteratively extracts and improves plans from the narrative corpus and constructs a plan corpus. We propose a question answer (QA) based evaluation mechanism to automatically evaluate the plans and generate detailed plan refinement instructions to guide the iterative improvement. In the learning stage, we build a better planner by fine-tuning with the plan corpus or in-context learning with examples in the plan corpus. Finally, we leverage a hierarchical approach to generate long-form narratives. We evaluate the effectiveness of EIPE-text in the domains of novels and storytelling. Both GPT-4-based evaluations and human evaluations demonstrate that our method can generate more coherent and relevant long-form narratives. Our code will be released in the future.",
+      "citations": 13
+    },
+    {
+      "title": "EvolvR: Self-Evolving Pairwise Reasoning for Story Evaluation to Enhance Generation",
+      "year": 2025,
+      "authors": "Xinda Wang, Zhengxu Hou, Yangshijie Zhang, Bingren Yan, Jia-Lin Liu, Chen-Zhuo Zhao, Zhi-Bo Yang, Bin-Bin Yang, Feng Xiao",
+      "url": "https://api.semanticscholar.org/CorpusId:280561069",
+      "relevance": 1,
+      "abstract": "Although the effectiveness of Large Language Models (LLMs) as judges (LLM-as-a-judge) has been validated, their performance remains limited in open-ended tasks, particularly in story evaluation. Accurate story evaluation is crucial not only for assisting human quality judgment but also for providing key signals to guide story generation. However, existing methods face a dilemma: prompt engineering for closed-source models suffers from poor adaptability, while fine-tuning approaches for open-source models lack the rigorous reasoning capabilities essential for story evaluation. To address this, we propose the Self-Evolving Pairwise Reasoning (EvolvR) framework. Grounded in pairwise comparison, the framework first self-synthesizes score-aligned Chain-of-Thought (CoT) data via a multi-persona strategy. To ensure data quality, these raw CoTs undergo a self-filtering process, utilizing multi-agents to guarantee their logical rigor and robustness. Finally, the evaluator trained on the refined data is deployed as a reward model to guide the story generation task. Experimental results demonstrate that our framework achieves state-of-the-art (SOTA) performance on three evaluation benchmarks including StoryER, HANNA and OpenMEVA. Furthermore, when served as a reward model, it significantly enhances the quality of generated stories, thereby fully validating the superiority of our self-evolving approach.",
+      "citations": 2
+    },
+    {
+      "title": "Kahaani: A Multimodal Co-Creative Storytelling System",
+      "year": 2024,
+      "authors": "Samee Arif, Taimoor Arif, A. Khan, M. Haroon, Agha Ali Raza, Awais Athar",
+      "url": "https://api.semanticscholar.org/CorpusId:272693979",
+      "relevance": 1,
+      "abstract": "This paper introduces Kahaani, a multimodal, co-creative storytelling system that leverages Generative Artificial Intelligence, designed for children to address the challenge of sustaining engagement to foster educational narrative experiences. Here we define co-creative as a collaborative creative process in which both the child and Kahaani contribute to the generation of the story. The system combines Large Language Model (LLM), Text-to-Speech (TTS), Text-to-Music (TTM), and Text-to-Video (TTV) generation to produce a rich, immersive, and accessible storytelling experience. The system grounds the co-creation process in two classical storytelling framework, Freytag's Pyramid and Propp's Narrative Functions. The main goals of Kahaani are: (1) to help children improve their English skills, (2) to teach important life lessons through story morals, and (3) to help them understand how stories are structured, all in a fun and engaging way. We present evaluations for each AI component used, along with a user study involving three parent-child pairs to assess the overall experience and educational value of the system.",
+      "citations": 3
+    },
+    {
+      "title": "ChatGPT as a Narrative Structure Interpreter",
+      "year": 2023,
+      "authors": "Alberto Alvarez",
+      "url": "https://www.semanticscholar.org/paper/a9086e0d34ae9c86d76b51874f9d13771916b8a9",
+      "relevance": 1,
+      "abstract": "",
+      "citations": 5
+    },
+    {
+      "title": "Wordcraft: Story Writing With Large Language Models",
+      "year": 2022,
+      "authors": "Ann Yuan, Andy Coenen, Emily Reif, Daphne Ippolito",
+      "url": "https://www.semanticscholar.org/paper/fb5c11bbf63884f75d2da615fbf37a3bcfa2bd20",
+      "relevance": 1,
+      "abstract": "The latest generation of large neural language models such as GPT-3 have achieved new levels of performance on benchmarks for language understanding and generation. These models have even demonstrated an ability to perform arbitrary tasks without explicit training. In this work, we sought to learn how people might use such models in the process of creative writing. We built Wordcraft, a text editor in which users collaborate with a generative language model to write a story. We evaluated Wordcraft with a user study in which participants wrote short stories with and without the tool. Our results show that large language models enable novel co-writing experiences. For example, the language model is able to engage in open-ended conversation about the story, respond to writers\u2019 custom requests expressed in natural language (such as \u201drewrite this text to be more Dickensian\u201d), and generate suggestions that serve to unblock writers in the creative process. Based on these results, we discuss design implications for future human-AI co-writing systems.",
+      "citations": 479
+    },
+    {
+      "title": "The Next Chapter: A Study of Large Language Models in Storytelling",
+      "year": 2023,
+      "authors": "Zhuohan Xie, Trevor Cohn, Jey Han Lau",
+      "url": "https://www.semanticscholar.org/paper/d01f6e76e67a445f23f807c0d3e68fa0be9a2c9e",
+      "relevance": 1,
+      "abstract": "To enhance the quality of generated stories, recent story generation models have been investigating the utilization of higher-level attributes like plots or commonsense knowledge. The application of prompt-based learning with large language models (LLMs), exemplified by GPT-3, has exhibited remarkable performance in diverse natural language processing (NLP) tasks. This paper conducts a comprehensive investigation, utilizing both automatic and human evaluation, to compare the story generation capacity of LLMs with recent models across three datasets with variations in style, register, and length of stories. The results demonstrate that LLMs generate stories of significantly higher quality compared to other story generation models. Moreover, they exhibit a level of performance that competes with human authors, albeit with the preliminary observation that they tend to replicate real stories in situations involving world knowledge, resembling a form of plagiarism.",
+      "citations": 96
+    },
+    {
+      "title": "Hierarchical Neural Story Generation",
+      "year": 2018,
+      "authors": "Angela Fan, M. Lewis, Yann Dauphin",
+      "url": "https://www.semanticscholar.org/paper/29de7c0fb3c09eaf55b20619bceaeafe72fd87a6",
+      "relevance": 1,
+      "abstract": "We explore story generation: creative systems that can build coherent and fluent passages of text about a topic. We collect a large dataset of 300K human-written stories paired with writing prompts from an online forum. Our dataset enables hierarchical story generation, where the model first generates a premise, and then transforms it into a passage of text. We gain further improvements with a novel form of model fusion that improves the relevance of the story to the prompt, and adding a new gated multi-scale self-attention mechanism to model long-range context. Experiments show large improvements over strong baselines on both automated and human evaluations. Human judges prefer stories generated by our approach to those from a strong non-hierarchical model by a factor of two to one.",
+      "citations": 2146
+    },
+    {
+      "title": "Automated Storytelling via Causal, Commonsense Plot Ordering",
+      "year": 2020,
+      "authors": "Prithviraj Ammanabrolu, W. Cheung, William Broniec, Mark O. Riedl",
+      "url": "https://www.semanticscholar.org/paper/4e0af5f4944c16e3ae49b3c96cce7f81989c30f8",
+      "relevance": 1,
+      "abstract": "Automated story plot generation is the task of generating a coherent sequence of plot events. Causal relations between plot events are believed to increase the perception of story and plot coherence. In this work, we introduce the concept of soft causal relations as causal relations inferred from commonsense reasoning. We demonstrate C2PO, an approach to narrative generation that operationalizes this concept through Causal, Commonsense Plot Ordering. Using human-participant protocols, we evaluate our system against baseline systems with different commonsense reasoning reasoning and inductive biases to determine the role of soft causal relations in perceived story quality. Through these studies we also probe the interplay of how changes in commonsense norms across storytelling genres affect perceptions of story quality.",
+      "citations": 75
+    },
+    {
+      "title": "Plan-And-Write: Towards Better Automatic Storytelling",
+      "year": 2018,
+      "authors": "Lili Yao, Nanyun Peng, R. Weischedel, Kevin Knight, Dongyan Zhao, Rui Yan",
+      "url": "https://www.semanticscholar.org/paper/b0e716728e940eb2164892b7e284940157a2cebe",
+      "relevance": 1,
+      "abstract": "Automatic storytelling is challenging since it requires generating long, coherent natural language to describes a sensible sequence of events. Despite considerable efforts on automatic story generation in the past, prior work either is restricted in plot planning, or can only generate stories in a narrow domain. In this paper, we explore open-domain story generation that writes stories given a title (topic) as input. We propose a plan-and-write hierarchical generation framework that first plans a storyline, and then generates a story based on the storyline. We compare two planning strategies. The dynamic schema interweaves story planning and its surface realization in text, while the static schema plans out the entire storyline before generating stories. Experiments show that with explicit storyline planning, the generated stories are more diverse, coherent, and on topic than those generated without creating a full plan, according to both automatic and human evaluations.",
+      "citations": 512
+    },
+    {
+      "title": "Open-world Story Generation with Structured Knowledge Enhancement: A Comprehensive Survey",
+      "year": 2022,
+      "authors": "Yuxin Wang, Jieru Lin, Zhiwei Yu, Wei Hu, B\u00f6rje F. Karlsson",
+      "url": "https://www.semanticscholar.org/paper/5f7bd3dded6626d571c641ad74b4033b8e591441",
+      "relevance": 1,
+      "abstract": "Storytelling and narrative are fundamental to human experience, intertwined with our social and cultural engagement. As such, researchers have long attempted to create systems that can generate stories automatically. In recent years, powered by deep learning and massive data resources, automatic story generation has shown significant advances. However, considerable challenges, like the need for global coherence in generated stories, still hamper generative models from reaching the same storytelling ability as human narrators. To tackle these challenges, many studies seek to inject structured knowledge into the generation process, which is referred to as structured knowledge-enhanced story generation. Incorporating external knowledge can enhance the logical coherence among story events, achieve better knowledge grounding, and alleviate over-generalization and repetition problems in stories. This survey provides the latest and comprehensive review of this research field: (i) we present a systematic taxonomy regarding how existing methods integrate structured knowledge into story generation; (ii) we summarize involved story corpora, structured knowledge datasets, and evaluation metrics; (iii) we give multidimensional insights into the challenges of knowledge-enhanced story generation and cast light on promising directions for future study.",
+      "citations": 38
+    },
+    {
+      "title": "Unmet Creativity Support Needs in Computationally Supported Creative Writing",
+      "year": 2022,
+      "authors": "M. Kreminski, Chris Martens",
+      "url": "https://www.semanticscholar.org/paper/f02c487572472dd20d064f0755b85b7e1aacf86f",
+      "relevance": 1,
+      "abstract": "Large language models (LLMs) enabled by the datasets and computing power of the last decade have recently gained popularity for their capacity to generate plausible natural language text from human-provided prompts. This ability makes them appealing to fiction writers as prospective co-creative agents, addressing the common challenge of writer\u2019s block, or getting unstuck. However, creative writers face additional challenges, including maintaining narrative consistency, developing plot structure, architecting reader experience, and refining their expressive intent, which are not well-addressed by current LLM-backed tools. In this paper, we define these needs by grounding them in cognitive and theoretical literature, then survey previous computational narrative research that holds promise for supporting each of them in a co-creative setting.",
+      "citations": 34
+    },
+    {
+      "title": "Survey of the State of the Art in Natural Language Generation: Core tasks, applications and evaluation",
+      "year": 2017,
+      "authors": "Albert Gatt, E. Krahmer",
+      "url": "https://api.semanticscholar.org/CorpusId:16946362",
+      "relevance": 1,
+      "abstract": "This paper surveys the current state of the art in Natural Language Generation (NLG), defined as the task of generating text or speech from non-linguistic input. A survey of NLG is timely in view of the changes that the field has undergone over the past two decades, especially in relation to new (usually data-driven) methods, as well as new applications of NLG technology. This survey therefore aims to (a) give an up-to-date synthesis of research on the core tasks in NLG and the architectures adopted in which such tasks are organised; (b) highlight a number of recent research topics that have arisen partly as a result of growing synergies between NLG and other areas of artifical intelligence; (c) draw attention to the challenges in NLG evaluation, relating them to similar challenges faced in other areas of nlp, with an emphasis on different evaluation methods and the relationships between them.",
+      "citations": 924
+    },
+    {
+      "title": "Narrative Theory-Driven LLM Methods for Automatic Story Generation and Understanding: A Survey",
+      "year": 2026,
+      "authors": "David Y. Liu, A. Joshi, Paul Dawson",
+      "url": "https://api.semanticscholar.org/CorpusId:285726311",
+      "relevance": 1,
+      "abstract": "Applications of narrative theories using large language models (LLMs) deliver promising methods in automatic story generation and understanding tasks. Our survey examines how natural language processing (NLP) research uses LLM methods to engage with diverse concepts from narrative studies. We use established distinctions from narratology to categorise ongoing efforts and discover the following: \\redtext{(a) narrative texts come from diverse sources beyond just literature, (b) theoretical synthesis and validation are potential outcomes, (c) generation tasks lag behind understanding in several ways: theoretical application, post-training methods, exploring non-fiction narratives and addressing narrative levels beyond fabula and discourse.} For future directions, instead of the pursuit of a single, generalised benchmark for `narrative quality', we believe that progress can benefit from efforts that focus on the following: defining and improving theory-based metrics for individual narrative attributes; continue conducting large-scale, theory-driven literary/social/cultural analysis; generating narratives in situated contexts; and continuing experiments where outputs can be used to validate or refine narrative theories. This work provides a contextual foundation for more systematic and theoretically informed narrative research in NLP by providing an overview to ongoing research efforts and the broader narrative studies landscape.",
+      "citations": 6
+    },
+    {
+      "title": "ChatGeppetto - an AI-powered Storyteller",
+      "year": 2023,
+      "authors": "E. S. de Lima, Bruno Feij\u00f3, Marco A. Cassanova, A. Furtado",
+      "url": "https://api.semanticscholar.org/CorpusId:267069737",
+      "relevance": 1,
+      "abstract": "In this paper we introduce a novel highly interactive process to generate natural language narratives on the basis of our ongoing work on semiotic relations. To the two basic components of interactive systems, namely, a software tool and a user interface, we add a third component \u2013 AI agents, understood as an upgraded rendition of software agents. Our semiotic relations approach considers four ways of composing new narratives from existing narratives. Along what semioticians call the horizontal syntagmatic axis, one can form the new narrative by combining two or more previous narratives. Along the vertical paradigmatic axis, the new narrative may emerge as a similar version, which imitates the previous one, possibly in a different context. Along the depth meronymic axis, the hierarchic narrative levels, such as plot, event, and scene, are explored, allowing either expansion or summarization. Lastly, the antithetic consideration, rather than adding a dimension, aims at some form of reversal, through the adoption of opposite values. A fully operational prototype is described. Its name, ChatGeppetto, conflates the skilled Geppetto, who fashioned Pinocchio, an early case of artisanship-produced human level intelligence, with ChatGPT, which operates as the main AI agent component. To run the experiments, we concentrated on book narratives.",
+      "citations": 19
+    },
+    {
+      "title": "StorySpark: Module-wise Evolutionary Search for Story Premise Generation",
+      "year": 2026,
+      "authors": "Yang Yang, Zining Zhong, Qian Cao, Jindong Li, Boyun Xu, Kaishen Yuan, Meng-Lin Yang, Yutao Yue",
+      "url": "https://api.semanticscholar.org/CorpusId:291080745",
+      "relevance": 1,
+      "abstract": "A story premise is the creative spark from which a full narrative can grow. Yet LLM-based story generation has mostly emphasized later-stage planning, controllability, coherence, and prose expansion, while premise-level ideation remains comparatively underexplored. We introduce StorySpark, a module-wise evolutionary search framework for story premise generation. StorySpark operates over interpretable narrative modules such as background, persona, event, ending, and twist, treating each active module not as a static field to fill once, but as a local search space conditioned on the partial premise built so far. For each module, it generates alternatives, evaluates them in context, refines them through feedback-driven mutation and recombination, preserves complementary strengths with Pareto-guided selection, and reallocates frontier capacity to balance branch coverage with promising directions. Multi-view automatic and human evaluations show that StorySpark produces stronger final premises than competitive baselines, with especially consistent gains in originality; when expanded with the same story writer, its premises also lead to higher-quality downstream stories while maintaining completeness, fascination, and diverse usable narrative directions.",
+      "citations": 0
+    },
+    {
+      "title": "Towards Coherent and Consistent Use of Entities in Narrative Generation",
+      "year": 2022,
+      "authors": "Pinelopi Papalampidi, Kris Cao, Tom\u00e1s Kocisk\u00fd",
+      "url": "https://api.semanticscholar.org/CorpusId:246485319",
+      "relevance": 1,
+      "abstract": "Large pre-trained language models (LMs) have demonstrated impressive capabilities in generating long, fluent text; however, there is little to no analysis on their ability to maintain entity coherence and consistency. In this work, we focus on the end task of narrative generation and systematically analyse the long-range entity coherence and consistency in generated stories. First, we propose a set of automatic metrics for measuring model performance in terms of entity usage. Given these metrics, we quantify the limitations of current LMs. Next, we propose augmenting a pre-trained LM with a dynamic entity memory in an end-to-end manner by using an auxiliary entity-related loss for guiding the reads and writes to the memory. We demonstrate that the dynamic entity memory increases entity coherence according to both automatic and human judgment and helps preserving entity-related information especially in settings with a limited context window. Finally, we also validate that our automatic metrics are correlated with human ratings and serve as a good indicator of the quality of generated stories.",
+      "citations": 17
+    },
+    {
+      "title": "MLD-EA: Check and Complete Narrative Coherence by Introducing Emotions and Actions",
+      "year": 2024,
+      "authors": "Jin-Ming Zhang, Yun-Fei Long",
+      "url": "https://api.semanticscholar.org/CorpusId:274464657",
+      "relevance": 1,
+      "abstract": "Narrative understanding and story generation are critical challenges in natural language processing (NLP), with much of the existing research focused on summarization and question-answering tasks. While previous studies have explored predicting plot endings and generating extended narratives, they often neglect the logical coherence within stories, leaving a significant gap in the field. To address this, we introduce the Missing Logic Detector by Emotion and Action (MLD-EA) model, which leverages large language models (LLMs) to identify narrative gaps and generate coherent sentences that integrate seamlessly with the story's emotional and logical flow. The experimental results demonstrate that the MLD-EA model enhances narrative understanding and story generation, highlighting LLMs' potential as effective logic checkers in story writing with logical coherence and emotional consistency. This work fills a gap in NLP research and advances border goals of creating more sophisticated and reliable story-generation systems.",
+      "citations": 9
+    },
+    {
+      "title": "Narratron: Collaborative Writing and Shadow-playing of Children Stories with Large Language Models",
+      "year": 2023,
+      "authors": "Yu-Bo Zhao, Xiying Bao",
+      "url": "https://api.semanticscholar.org/CorpusId:264515021",
+      "relevance": 1,
+      "abstract": "Shadow puppetry or shadow play, allows bodily participation into the process of linguistic storytelling, while the potential of multi-modal interaction through shadow plays in existing large-language-model-based creative tools has not been fully discovered. We propose Narratron, a generative story-making tool that co-creates and co-performs children stories from shadow using Claude 2 model. To achieve Narratron, our system is designed to recognize hand gestural inputs as main character and to develop story plot in accordance with character change. Through our system, we seek to stimulate creativity in shadow play storytelling and to facilitate a multi-modal human-AI collaboration.",
+      "citations": 11
+    },
+    {
+      "title": "Multigenre AI-powered Story Composition",
+      "year": 2024,
+      "authors": "E. S. de Lima, Margot M. E. Neggers, Ant\u00f3nio L. Furtado",
+      "url": "https://api.semanticscholar.org/CorpusId:269757073",
+      "relevance": 1,
+      "abstract": "This paper shows how to construct genre patterns, whose purpose is to guide interactive story composition in a way that enforces thematic consistency. To start the discussion we argue, based on previous seminal works, for the existence of five fundamental genres, namely comedy, romance - in the sense of epic plots, flourishing since the twelfth century -, tragedy, satire, and mystery. To construct the patterns, a simple two-phase process is employed: first retrieving examples that match our genre characterizations, and then applying a form of most specific generalization to the groups of examples in order to find their commonalities. In both phases, AI agents are instrumental, with our PatternTeller prototype being called to operate the story composition process, offering the opportunity to generate stories from a given premise of the user, to be developed under the guidance of the chosen pattern and trying to accommodate the user's suggestions along the composition stages.",
+      "citations": 2
+    },
+    {
+      "title": "Does Robin Hood Use a Lightsaber?: Automated Planning for Storytelling",
+      "year": 2024,
+      "authors": "Nisha Ingrid Simon",
+      "url": "https://api.semanticscholar.org/CorpusId:268701249",
+      "relevance": 1,
+      "abstract": "Humans have been using stories to entertain, educate, and persuade audiences for centuries. The advent of modern AI tools in the form of Large Language Models (LLMs) such as chatGPT continues to fulfill this purpose. However while recent work has shown that LLMs can successfully be used for narrative generation, they lack coherence and can be prone to repetition and stilted language. Automated Planning can therefore be combined with Natural Language text generation to create narratives (stories) that are logical, coherent, and believable. A planning model provides scaffolding to an LLM so that the LLM's language generation is context-dependent, in order to allow users to create more coherent, logical, and believable stories in a variety of domains.",
+      "citations": 2
+    },
+    {
+      "title": "The LSG Challenge Workshop at INLG 2024: Prompting Techniques for Crafting Extended Narratives with LLMs",
+      "year": 2024,
+      "authors": "Aleksandr Boriskin, Daria Galimzianova",
+      "url": "https://api.semanticscholar.org/CorpusId:279196617",
+      "relevance": 1,
+      "abstract": "The task of generating long narratives using Large Language Models (LLMs) is a largely unexplored area within natural language processing (NLP). Although modern LLMs can handle up to 1 million tokens, ensuring coherence and control over long story generation is still a significant challenge. This paper investigates the use of summarization techniques to create extended narratives, specifically targeting long stories. We propose a special prompting scheme that segments the narrative into several parts and chapters, each generated iteratively with contextual information. Our approach is evaluated with GAPELMAPER, a sophisticated text coherence metric, for automatic evaluation to maintain the structural integrity of the generated stories. We also rely on human evaluation to assess the quality of the generated text. This research advances the development of tools for long story generation in NLP, highlighting both the potential and current limitations of LLMs in this field.",
+      "citations": 0
+    },
+    {
+      "title": "Controllable Text Generation for Open-Domain Creativity and Fairness",
+      "year": 2022,
+      "authors": "Nanyun Peng",
+      "url": "https://www.semanticscholar.org/paper/6cdb491e4db7394ab4726f7e653b6dc4fa25094d",
+      "relevance": 1,
+      "abstract": "Recent advances in large pre-trained language models have demonstrated strong results in generating natural languages and significantly improved performances for many natural language generation (NLG) applications such as machine translation and text summarization. However, when the generation tasks are more open-ended and the content is under-specified, existing techniques struggle to generate long-term coherent and creative content. Moreover, the models exhibit and even amplify social biases that are learned from the training corpora. This happens because the generation models are trained to capture the surface patterns (i.e. sequences of words), instead of capturing underlying semantics and discourse structures, as well as background knowledge including social norms. In this paper, I introduce our recent works on controllable text generation to enhance the creativity and fairness of language generation models. We explore hierarchical generation and constrained decoding, with applications to creative language generation including story, poetry, and figurative languages, and bias mitigation for generation models.",
+      "citations": 11
+    },
+    {
+      "title": "Future Sight: Dynamic Story Generation with Large Pretrained Language Models",
+      "year": 2022,
+      "authors": "Brian D. Zimmerman, Gaurav Sahu, Olga Vechtomova",
+      "url": "https://api.semanticscholar.org/CorpusId:254877741",
+      "relevance": 1,
+      "abstract": "Recent advances in deep learning research, such as transformers, have bolstered the ability for automated agents to generate creative texts similar to those that a human would write. By default, transformer decoders can only generate new text with respect to previously generated text. The output distribution of candidate tokens at any position is conditioned on previously selected tokens using a self-attention mechanism to emulate the property of autoregression. This is inherently limiting for tasks such as controllable story generation where it may be necessary to condition on future plot events when writing a story. In this work, we propose Future Sight, a method for finetuning a pretrained generative transformer on the task of future conditioning. Transformer decoders are typically pretrained on the task of completing a context, one token at a time, by means of self-attention. Future Sight additionally enables a decoder to attend to an encoded future plot event. This motivates the decoder to expand on the context in a way that logically concludes with the provided future. During inference, the future plot event can be written by a human author to steer the narrative being generated in a certain direction. We evaluate the efficacy of our approach on a story generation task with human evaluators.",
+      "citations": 0
+    }
+  ]
+}
+
+Results saved to: paper_search_results/foreshadowing_and_planning_in_LLM_story_generation_outline-conditioned_narrative_20261002_183656.jsonl

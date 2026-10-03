@@ -1,0 +1,17 @@
+\section{Discussion}
+\label{sec:discussion}
+
+\para{Plans work by making decisions, not by adding text.}
+Our results support the hypothesis that models leak secrets because planning and prose are entangled, in a specific form. Leakage comes from \emph{open content decisions} that the salient secret resolves. A plan that settles these decisions in advance, written without the secret, removes the leak. Extra context does not: a length-matched irrelevant passage leaves leakage unchanged in behavior and even enlarges the secret's footprint in the residual stream. This argues against the most natural reading of the entropy-budget account~\citep{holtzman2026secret}, in which any rich context would mask the secret by competing for attention. With a plan to follow, the model no longer prepares the future on its own, and it stops leaking.
+
+\para{Thinking first moves the leak earlier.}
+A plan written by the secret holder is not a cure. Its outlines carry the secret, and a writer that never saw the secret reproduces the leak from them, sometimes naming the word outright. This parallels the finding that chain-of-thought does not prevent privacy leakage~\citep{mireshghallah2023confaide}, and it gives a mechanism: the secret steers whatever decisions are open, and in a two-step pipeline those decisions are made at planning time. The secret is weak while such a story is written (53 vs.\ 61 for an external outline, \tabref{tab:m2}), because there is nothing left for it to decide. The practical lesson is to separate the \emph{planner} from the secret, not only the prose writer.
+
+\para{Suppressing a word is not suppressing a concept.}
+The model lowers the probability of the literal secret but keeps its identity linearly present at every story position, and that representation, read from context throughout writing, drives a large part of the leak. An outline helps because it leaves the secret nothing to decide, and the model then represents it about three times more weakly.
+
+\para{Limitations.}
+All mechanism results come from one model, \gemma; the behavioral effect replicates on \gemmabig. We use a single judge, \judge, because a planned second judge was dropped for budget reasons. Our ablations are blunt: they degrade prose for secret and control directions alike (quality about 3.5/10), so we read \mthree as ``removing the secret removes much of the leak relative to equally disruptive controls,'' and leakage stays above chance after ablation (60--67\%). Steering was tested at one layer and two scales, and three \mthree conditions use 210 rather than 420 trials. Twist leakage is small (57.6\%), and our plans are Gemma-written outlines; we did not test human-written plans or a range of granularities. \Secref{app:limitations} gives details.
+
+\para{Broader implications.}
+Keeping secrets out of generated text matters for system-prompt confidentiality, private user data, and fiction that should surprise its readers. Our results suggest a cheap defense: let a component that does not see the secret make the open content decisions, and let the secret holder only execute them. They also show that ``do not hint'' and ``think first'' do not achieve this, because the model keeps representing what it holds and uses it wherever a decision is left open. Conversely, an adversary could extract hidden context by giving a model open-ended tasks, which is a further reason to separate the planner from the secret where confidentiality matters.

@@ -1,0 +1,8 @@
+PDF: papers/2511.12381_mann2025_white_bear_ironic_negation.pdf
+Total pages: 12
+Pages per chunk: 4
+
+Chunks:
+  2511.12381_mann2025_white_bear_ironic_negation_chunk_001.pdf: pages 1-4
+  2511.12381_mann2025_white_bear_ironic_negation_chunk_002.pdf: pages 5-8
+  2511.12381_mann2025_white_bear_ironic_negation_chunk_003.pdf: pages 9-12

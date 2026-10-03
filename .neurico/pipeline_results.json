@@ -1,0 +1,29 @@
+{
+  "success": true,
+  "stages": {
+    "resource_finder": {
+      "success": true,
+      "completion_marker": "/workspaces/llms-are-bad-at-keeping-obvious-secrets-3355-claude-opus-5-5/.resource_finder_complete",
+      "outputs": {
+        "literature_review": "/workspaces/llms-are-bad-at-keeping-obvious-secrets-3355-claude-opus-5-5/literature_review.md",
+        "resources_catalog": "/workspaces/llms-are-bad-at-keeping-obvious-secrets-3355-claude-opus-5-5/resources.md",
+        "papers_dir": "/workspaces/llms-are-bad-at-keeping-obvious-secrets-3355-claude-opus-5-5/papers",
+        "datasets_dir": "/workspaces/llms-are-bad-at-keeping-obvious-secrets-3355-claude-opus-5-5/datasets",
+        "code_dir": "/workspaces/llms-are-bad-at-keeping-obvious-secrets-3355-claude-opus-5-5/code"
+      },
+      "log_file": "/workspaces/llms-are-bad-at-keeping-obvious-secrets-3355-claude-opus-5-5/logs/resource_finder_claude.log",
+      "transcript_file": "/workspaces/llms-are-bad-at-keeping-obvious-secrets-3355-claude-opus-5-5/logs/resource_finder_claude_transcript.jsonl",
+      "elapsed_time": 2074.4793705940247,
+      "background_processes_terminated": false
+    },
+    "experiment_runner": {
+      "success": true,
+      "return_code": 0,
+      "elapsed_time": 24122.96315932274,
+      "log_file": "/workspaces/llms-are-bad-at-keeping-obvious-secrets-3355-claude-opus-5-5/logs/execution_claude.log",
+      "transcript_file": "/workspaces/llms-are-bad-at-keeping-obvious-secrets-3355-claude-opus-5-5/logs/execution_claude_transcript.jsonl",
+      "background_processes_terminated": false
+    }
+  },
+  "work_dir": "/workspaces/llms-are-bad-at-keeping-obvious-secrets-3355-claude-opus-5-5"
+}

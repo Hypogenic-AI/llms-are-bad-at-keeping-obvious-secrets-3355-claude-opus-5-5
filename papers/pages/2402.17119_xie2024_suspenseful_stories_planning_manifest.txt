@@ -1,0 +1,10 @@
+PDF: papers/2402.17119_xie2024_suspenseful_stories_planning.pdf
+Total pages: 17
+Pages per chunk: 4
+
+Chunks:
+  2402.17119_xie2024_suspenseful_stories_planning_chunk_001.pdf: pages 1-4
+  2402.17119_xie2024_suspenseful_stories_planning_chunk_002.pdf: pages 5-8
+  2402.17119_xie2024_suspenseful_stories_planning_chunk_003.pdf: pages 9-12
+  2402.17119_xie2024_suspenseful_stories_planning_chunk_004.pdf: pages 13-16
+  2402.17119_xie2024_suspenseful_stories_planning_chunk_005.pdf: page 17

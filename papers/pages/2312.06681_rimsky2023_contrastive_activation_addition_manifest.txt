@@ -1,0 +1,10 @@
+PDF: papers/2312.06681_rimsky2023_contrastive_activation_addition.pdf
+Total pages: 19
+Pages per chunk: 4
+
+Chunks:
+  2312.06681_rimsky2023_contrastive_activation_addition_chunk_001.pdf: pages 1-4
+  2312.06681_rimsky2023_contrastive_activation_addition_chunk_002.pdf: pages 5-8
+  2312.06681_rimsky2023_contrastive_activation_addition_chunk_003.pdf: pages 9-12
+  2312.06681_rimsky2023_contrastive_activation_addition_chunk_004.pdf: pages 13-16
+  2312.06681_rimsky2023_contrastive_activation_addition_chunk_005.pdf: pages 17-19

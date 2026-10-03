@@ -1,0 +1,10 @@
+PDF: papers/2604.00209_wang2026_private_internally_probing_steering.pdf
+Total pages: 18
+Pages per chunk: 4
+
+Chunks:
+  2604.00209_wang2026_private_internally_probing_steering_chunk_001.pdf: pages 1-4
+  2604.00209_wang2026_private_internally_probing_steering_chunk_002.pdf: pages 5-8
+  2604.00209_wang2026_private_internally_probing_steering_chunk_003.pdf: pages 9-12
+  2604.00209_wang2026_private_internally_probing_steering_chunk_004.pdf: pages 13-16
+  2604.00209_wang2026_private_internally_probing_steering_chunk_005.pdf: pages 17-18
